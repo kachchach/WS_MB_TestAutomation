@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<con:soapui-project id="5dd59cae-d703-4913-9327-afd0fb4fc1c9" activeEnvironment="Default" name="souscription" resourceRoot="" soapui-version="5.4.0" abortOnError="false" runType="SEQUENTIAL" xmlns:con="http://eviware.com/soapui/config"><con:settings/><con:interface xsi:type="con:RestService" id="d05cf882-2787-4d04-925e-cbf4d1733eb0" wadlVersion="http://wadl.dev.java.net/2009/02" name="The doc for your API" type="rest" basePath="/mobile-web-services" definitionUrl="file:/Users/mac/Desktop/S2M/workspace_webservice/Version%20Finale/souscription.wadl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:settings/><con:definitionCache type="TEXT"/><con:endpoints/><con:resource name="/authentication" path="/authentication" id="0e3f32c0-e343-497b-bf1b-41ae956d7dfb"><con:settings/><con:parameters/><con:resource name="/ChangePassword" path="/ChangePassword" id="3a0b1934-67dd-42b0-914e-aad0b66c4df7"><con:settings/><con:parameters/><con:method name="POST - changePassword" id="35c07896-2e1d-4364-bca3-f3b61da229ba" method="POST"><con:settings/><con:parameters><con:parameter><con:name>appVersion</con:name><con:value xsi:nil="true"/><con:style>QUERY</con:style><con:default xsi:nil="true"/></con:parameter><con:parameter><con:name>appPlateform</con:name><con:value xsi:nil="true"/><con:style>QUERY</con:style><con:default xsi:nil="true"/></con:parameter><con:parameter><con:name>appType</con:name><con:value xsi:nil="true"/><con:style>QUERY</con:style><con:default xsi:nil="true"/></con:parameter><con:parameter><con:name>institutionId</con:name><con:value xsi:nil="true"/><con:style>QUERY</con:style><con:default xsi:nil="true"/></con:parameter><con:parameter><con:name>phoneNumber</con:name><con:value xsi:nil="true"/><con:style>QUERY</con:style><con:default xsi:nil="true"/></con:parameter><con:parameter><con:name>login</con:name><con:value xsi:nil="true"/><con:style>QUERY</con:style><con:default xsi:nil="true"/></con:parameter><con:parameter><con:name>requesTime</con:name><con:value xsi:nil="true"/><con:style>QUERY</con:style><con:default xsi:nil="true"/></con:parameter><con:parameter><con:name>customerPreferedLanguage</con:name><con:value xsi:nil="true"/><con:style>QUERY</con:style><con:default xsi:nil="true"/></con:parameter><con:parameter><con:name>customerAgentId</con:name><con:value xsi:nil="true"/><con:style>QUERY</con:style><con:default xsi:nil="true"/></con:parameter><con:parameter><con:name>oldPassword</con:name><con:value xsi:nil="true"/><con:style>QUERY</con:style><con:default xsi:nil="true"/></con:parameter><con:parameter><con:name>newPassword</con:name><con:value xsi:nil="true"/><con:style>QUERY</con:style><con:default xsi:nil="true"/></con:parameter></con:parameters><con:representation type="REQUEST" id=""><con:mediaType>application/x-www-form-urlencoded</con:mediaType><con:params/><con:element xsi:nil="true"/><con:description xsi:nil="true"/></con:representation><con:representation type="RESPONSE" id=""><con:mediaType>application/json</con:mediaType><con:params/><con:element>genericResponse</con:element><con:description xsi:nil="true"/></con:representation><con:request name="Request 1" id="b591ca25-70cc-4f97-97f6-e0091d797e14" mediaType="application/x-www-form-urlencoded" postQueryString="true"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>http://10.0.0.201:8080</con:endpoint><con:request/><con:originalUri>http://10.0.0.201/mobile-web-services/authentication/ChangePassword</con:originalUri><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters>
+<con:soapui-project id="5dd59cae-d703-4913-9327-afd0fb4fc1c9" activeEnvironment="Default" name="souscription" resourceRoot="" soapui-version="5.4.0" abortOnError="false" runType="SEQUENTIAL" xmlns:con="http://eviware.com/soapui/config"><con:settings/><con:interface xsi:type="con:RestService" id="d05cf882-2787-4d04-925e-cbf4d1733eb0" wadlVersion="http://wadl.dev.java.net/2009/02" name="The doc for your API" type="rest" basePath="/mobile-web-services" definitionUrl="file:./src/main/resources/JDD/Version%20Finale/souscription.wadl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:settings/><con:definitionCache type="TEXT"/><con:endpoints/><con:resource name="/authentication" path="/authentication" id="0e3f32c0-e343-497b-bf1b-41ae956d7dfb"><con:settings/><con:parameters/><con:resource name="/ChangePassword" path="/ChangePassword" id="3a0b1934-67dd-42b0-914e-aad0b66c4df7"><con:settings/><con:parameters/><con:method name="POST - changePassword" id="35c07896-2e1d-4364-bca3-f3b61da229ba" method="POST"><con:settings/><con:parameters><con:parameter><con:name>appVersion</con:name><con:value xsi:nil="true"/><con:style>QUERY</con:style><con:default xsi:nil="true"/></con:parameter><con:parameter><con:name>appPlateform</con:name><con:value xsi:nil="true"/><con:style>QUERY</con:style><con:default xsi:nil="true"/></con:parameter><con:parameter><con:name>appType</con:name><con:value xsi:nil="true"/><con:style>QUERY</con:style><con:default xsi:nil="true"/></con:parameter><con:parameter><con:name>institutionId</con:name><con:value xsi:nil="true"/><con:style>QUERY</con:style><con:default xsi:nil="true"/></con:parameter><con:parameter><con:name>phoneNumber</con:name><con:value xsi:nil="true"/><con:style>QUERY</con:style><con:default xsi:nil="true"/></con:parameter><con:parameter><con:name>login</con:name><con:value xsi:nil="true"/><con:style>QUERY</con:style><con:default xsi:nil="true"/></con:parameter><con:parameter><con:name>requesTime</con:name><con:value xsi:nil="true"/><con:style>QUERY</con:style><con:default xsi:nil="true"/></con:parameter><con:parameter><con:name>customerPreferedLanguage</con:name><con:value xsi:nil="true"/><con:style>QUERY</con:style><con:default xsi:nil="true"/></con:parameter><con:parameter><con:name>customerAgentId</con:name><con:value xsi:nil="true"/><con:style>QUERY</con:style><con:default xsi:nil="true"/></con:parameter><con:parameter><con:name>oldPassword</con:name><con:value xsi:nil="true"/><con:style>QUERY</con:style><con:default xsi:nil="true"/></con:parameter><con:parameter><con:name>newPassword</con:name><con:value xsi:nil="true"/><con:style>QUERY</con:style><con:default xsi:nil="true"/></con:parameter></con:parameters><con:representation type="REQUEST" id=""><con:mediaType>application/x-www-form-urlencoded</con:mediaType><con:params/><con:element xsi:nil="true"/><con:description xsi:nil="true"/></con:representation><con:representation type="RESPONSE" id=""><con:mediaType>application/json</con:mediaType><con:params/><con:element>genericResponse</con:element><con:description xsi:nil="true"/></con:representation><con:request name="Request 1" id="b591ca25-70cc-4f97-97f6-e0091d797e14" mediaType="application/x-www-form-urlencoded" postQueryString="true"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>http://10.0.0.201:8080</con:endpoint><con:request/><con:originalUri>http://10.0.0.201/mobile-web-services/authentication/ChangePassword</con:originalUri><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters>
   <con:entry key="appVersion" value="${#TestCase#appVersion}"/>
   <con:entry key="phoneNumber" value="${#TestCase#phoneNumber}"/>
   <con:entry key="customerAgentId" value="${#TestCase#customerAgentId}"/>
@@ -863,7 +863,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(74);
@@ -943,7 +943,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(23);
@@ -1025,7 +1025,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(74);
@@ -1104,7 +1104,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(19);
@@ -1186,7 +1186,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(74);
@@ -1266,7 +1266,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(24);
@@ -1356,7 +1356,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(18);
@@ -1420,7 +1420,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/git/testAutomation/soapUIJenkinsProject/src/main/resources/JDD/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(74);
@@ -1499,7 +1499,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(25);
@@ -1592,7 +1592,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(74);
@@ -1676,7 +1676,7 @@ class ExcelReader {
 		
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(26);
@@ -1757,7 +1757,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(74);
@@ -1837,7 +1837,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(27);
@@ -1919,7 +1919,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(74);
@@ -1998,7 +1998,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(28);
@@ -2081,7 +2081,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(74);
@@ -2161,7 +2161,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(29);
@@ -2244,7 +2244,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(74);
@@ -2324,7 +2324,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(30);
@@ -2413,7 +2413,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(74);
@@ -2493,7 +2493,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(31);
@@ -2573,7 +2573,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(74);
@@ -2654,7 +2654,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(32);
@@ -2737,7 +2737,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(74);
@@ -2816,7 +2816,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(33);
@@ -2902,7 +2902,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(74);
@@ -2983,7 +2983,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(34);
@@ -3075,7 +3075,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(74);
@@ -3156,7 +3156,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(35);
@@ -3241,7 +3241,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(74);
@@ -3320,7 +3320,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(36);
@@ -3406,7 +3406,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(74);
@@ -3485,7 +3485,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(37);
@@ -3565,7 +3565,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(38);
@@ -3641,7 +3641,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(74);
@@ -3720,7 +3720,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(39);
@@ -3815,7 +3815,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(20);
@@ -3890,7 +3890,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(40);
@@ -3961,7 +3961,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(22);
@@ -4023,7 +4023,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(74);
@@ -4102,7 +4102,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(21);
@@ -4191,7 +4191,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(8);
@@ -4259,7 +4259,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(4);
@@ -4318,7 +4318,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(17);
@@ -4421,7 +4421,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(7);
@@ -4499,7 +4499,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(9);
@@ -4569,7 +4569,7 @@ class ExcelReader{
 
 	def readData(){
 
-		def path = "/Users/mac/Desktop/S2M/workspace_WebService/file1.xlsx";
+		def path = "./src/main/resources/JDD/file1.xlsx";
 		InputStream inputStream = new FileInputStream(path);
 
 		Workbook workbook = WorkbookFactory.create(inputStream);
@@ -4647,7 +4647,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(2);
@@ -4714,7 +4714,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(6);
@@ -4781,7 +4781,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(5);
@@ -4860,7 +4860,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(11);
@@ -4950,7 +4950,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(13);
@@ -5037,7 +5037,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(10);
@@ -5131,7 +5131,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(16);
@@ -5217,7 +5217,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(41);
@@ -5292,7 +5292,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(42);
@@ -5356,7 +5356,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(43);
@@ -5444,7 +5444,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(74);
@@ -5523,7 +5523,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(44);
@@ -5605,7 +5605,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(75);
@@ -5684,7 +5684,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(45);
@@ -5783,7 +5783,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(75);
@@ -5862,7 +5862,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(46);
@@ -5976,7 +5976,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(47);
@@ -6061,7 +6061,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(48);
@@ -6130,7 +6130,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(75);
@@ -6209,7 +6209,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(49);
@@ -6296,7 +6296,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(74);
@@ -6375,7 +6375,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(50);
@@ -6473,7 +6473,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(74);
@@ -6552,7 +6552,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(51);
@@ -6652,7 +6652,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(52);
@@ -6712,7 +6712,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(74);
@@ -6791,7 +6791,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(53);
@@ -6872,7 +6872,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(75);
@@ -6951,7 +6951,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(54);
@@ -7028,7 +7028,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(74);
@@ -7107,7 +7107,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(55);
@@ -7189,7 +7189,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(74);
@@ -7268,7 +7268,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(56);
@@ -7354,7 +7354,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(75);
@@ -7434,7 +7434,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(57);
@@ -7513,7 +7513,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(74);
@@ -7592,7 +7592,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(58);
@@ -7675,7 +7675,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(74);
@@ -7754,7 +7754,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(59);
@@ -7831,7 +7831,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(74);
@@ -7910,7 +7910,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(60);
@@ -7994,7 +7994,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(74);
@@ -8073,7 +8073,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(61);
@@ -8171,7 +8171,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(74);
@@ -8250,7 +8250,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(62);
@@ -8329,7 +8329,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(74);
@@ -8408,7 +8408,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(63);
@@ -8496,7 +8496,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(75);
@@ -8575,7 +8575,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(64);
@@ -8662,7 +8662,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(75);
@@ -8742,7 +8742,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(65);
@@ -8833,7 +8833,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(75);
@@ -8912,7 +8912,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_WebService/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(66);
@@ -8993,7 +8993,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(75);
@@ -9072,7 +9072,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(67);
@@ -9166,7 +9166,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(75);
@@ -9245,7 +9245,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(68);
@@ -9325,7 +9325,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(75);
@@ -9405,7 +9405,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(69);
@@ -9484,7 +9484,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(75);
@@ -9563,7 +9563,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(70);
@@ -9646,7 +9646,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(75);
@@ -9725,7 +9725,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(71);
@@ -9809,7 +9809,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(75);
@@ -9888,7 +9888,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(72);
@@ -9978,7 +9978,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(73);
@@ -10049,7 +10049,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(14);
@@ -10117,7 +10117,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(3);
@@ -10186,7 +10186,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(74);
@@ -10262,7 +10262,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "./src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(74);
