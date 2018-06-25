@@ -1,0 +1,246 @@
+2018-06-25 11:19:48,441 WARN  [SoapUI] Missing folder [/Users/mac/Desktop/S2M/workspace/soapUIJenkinsProject/./ext] for external libraries
+2018-06-25 11:19:49,134 INFO  [DefaultSoapUICore] initialized soapui-settings from [/Users/mac/soapui-settings.xml]
+2018-06-25 11:19:50,698 WARN  [SoapUIProGroovyScriptEngineFactory] Missing scripts folder [/Users/mac/Desktop/S2M/workspace/soapUIJenkinsProject/scripts]
+2018-06-25 11:19:55,112 INFO  [WsdlProject] Loaded project from [file:/Users/mac/Desktop/S2M/workspace/soapUIJenkinsProject/src/test/resources/souscription-soapui-project.xml]
+2018-06-25 11:19:55,865 WARN  [SoapUIProGroovyScriptEngineFactory] Missing scripts folder [/Users/mac/Desktop/S2M/workspace/soapUIJenkinsProject/scripts]
+2018-06-25 11:19:56,733 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:56,792 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:56,979 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:56,981 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:56,984 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:56,986 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:56,988 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:56,990 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:56,992 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:56,995 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:56,996 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:56,998 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:56,999 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,001 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,002 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,004 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,006 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,009 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,011 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,012 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,014 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,015 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,017 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,020 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,022 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,024 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,025 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,027 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,028 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,030 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,032 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,034 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,035 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,037 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,038 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,139 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,141 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,143 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,144 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,146 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,148 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,149 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,151 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,155 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,157 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,157 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,159 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,160 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,162 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,165 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,166 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,168 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,169 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,171 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,173 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,174 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,175 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,176 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,178 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,179 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,181 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,182 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,183 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,184 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,185 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,186 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,188 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,189 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,190 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,192 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,193 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,194 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,195 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,196 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,197 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,198 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,199 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,219 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,220 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,221 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,222 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,224 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,225 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,226 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,227 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,228 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,229 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,231 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,231 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,233 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,234 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,235 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,236 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,238 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,239 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,241 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,242 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,244 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,245 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,247 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,248 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,250 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,251 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,254 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,255 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,257 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,258 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,260 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,261 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,264 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,265 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,267 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,268 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,270 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,271 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:57,273 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-06-25 11:19:58,701 INFO  [SoapUIProTestCaseRunner] Setting project property [message] to [Hello World!]
+2018-06-25 11:19:58,702 INFO  [SoapUIProTestCaseRunner] Running SoapUI tests in project [souscription]
+2018-06-25 11:19:58,876 INFO  [SoapUIProTestCaseRunner] Running Project [souscription], runType = SEQUENTIAL
+2018-06-25 11:19:58,949 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-ChangePassword]
+2018-06-25 11:19:59,192 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
+2018-06-25 11:20:06,353 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-25 11:20:06,399 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-25 11:20:08,575 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-25 11:20:08,608 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-25 11:20:09,378 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
+2018-06-25 11:20:09,446 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-25 11:20:09,730 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-25 11:20:09,730 INFO  [SoapUIProTestCaseRunner] running step [changePassword]
+2018-06-25 11:20:09,771 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-25 11:20:09,810 INFO  [SoapUIProTestCaseRunner] running step [changePassword]
+2018-06-25 11:20:11,198 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-ChangePassword], time taken: 12693ms, status: FINISHED
+2018-06-25 11:20:11,214 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-logout]
+2018-06-25 11:20:11,215 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
+2018-06-25 11:20:11,521 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-25 11:20:11,522 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-25 11:20:12,375 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-25 11:20:12,375 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-25 11:20:13,712 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
+2018-06-25 11:20:13,713 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-25 11:20:13,920 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-25 11:20:13,920 INFO  [SoapUIProTestCaseRunner] running step [logOut]
+2018-06-25 11:20:13,965 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-25 11:20:13,966 INFO  [SoapUIProTestCaseRunner] running step [logOut]
+2018-06-25 11:20:14,571 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-logout], time taken: 3217ms, status: FINISHED
+2018-06-25 11:20:14,572 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-ChangeRegisPIN]
+2018-06-25 11:20:14,573 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
+2018-06-25 11:20:14,778 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-25 11:20:14,778 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-25 11:20:15,743 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-25 11:20:15,744 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-25 11:20:17,072 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
+2018-06-25 11:20:17,072 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-25 11:20:17,258 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-25 11:20:17,259 INFO  [SoapUIProTestCaseRunner] running step [changeRegisPin]
+2018-06-25 11:20:17,293 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-25 11:20:17,295 INFO  [SoapUIProTestCaseRunner] running step [changeRegisPin]
+2018-06-25 11:20:17,914 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-ChangeRegisPIN], time taken: 3305ms, status: FINISHED
+2018-06-25 11:20:17,915 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-login]
+2018-06-25 11:20:17,916 INFO  [SoapUIProTestCaseRunner] running step [authenticate]
+2018-06-25 11:20:18,533 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-25 11:20:18,714 INFO  [log] Début du test -- Cas : 1.0 307
+2018-06-25 11:20:18,714 INFO  [SoapUIProTestCaseRunner] running step [authenticate]
+2018-06-25 11:20:19,231 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-25 11:20:19,231 INFO  [log] Début du test -- Cas : 1.1 384
+2018-06-25 11:20:19,231 INFO  [SoapUIProTestCaseRunner] running step [authenticate]
+2018-06-25 11:20:19,754 INFO  [log] Fin du test -- Cas : 1.1
+2018-06-25 11:20:19,754 INFO  [log] Début du test -- Cas : 1.3 370
+2018-06-25 11:20:19,754 INFO  [SoapUIProTestCaseRunner] running step [authenticate]
+2018-06-25 11:20:20,373 INFO  [log] Fin du test -- Cas : 1.3
+2018-06-25 11:20:20,374 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-25 11:20:20,374 INFO  [SoapUIProTestCaseRunner] running step [authenticate]
+2018-06-25 11:20:21,713 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-25 11:20:21,713 INFO  [log] Début du test -- Cas : 1.1 000
+2018-06-25 11:20:21,714 INFO  [SoapUIProTestCaseRunner] running step [authenticate]
+2018-06-25 11:20:23,218 INFO  [log] Fin du test -- Cas : 1.1
+2018-06-25 11:20:23,218 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-25 11:20:23,218 INFO  [SoapUIProTestCaseRunner] running step [authenticate]
+2018-06-25 11:20:24,218 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-25 11:20:24,258 INFO  [log] Début du test -- Cas : null null
+2018-06-25 11:20:24,258 INFO  [SoapUIProTestCaseRunner] running step [authenticate]
+2018-06-25 11:20:24,270 INFO  [log] Fin du test -- Cas : null
+2018-06-25 11:20:24,270 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-login], time taken: 8808ms, status: FINISHED
+2018-06-25 11:20:24,271 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-AddAccount]
+2018-06-25 11:20:24,272 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
+2018-06-25 11:20:24,458 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-25 11:20:24,459 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-25 11:20:25,136 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-25 11:20:25,136 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-25 11:20:26,334 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
+2018-06-25 11:20:26,334 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-25 11:20:26,495 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-25 11:20:26,495 INFO  [SoapUIProTestCaseRunner] running step [addAccount]
+2018-06-25 11:20:26,532 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-25 11:20:26,533 INFO  [SoapUIProTestCaseRunner] running step [addAccount]
+2018-06-25 11:20:27,772 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-AddAccount], time taken: 3187ms, status: FINISHED
+2018-06-25 11:20:27,773 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-GetCmsAccount]
+2018-06-25 11:20:27,773 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
+2018-06-25 11:20:27,956 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-25 11:20:27,956 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-25 11:20:28,645 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-25 11:20:28,645 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-25 11:20:29,991 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
+2018-06-25 11:20:29,992 INFO  [SoapUIProTestCaseRunner] running step [CmsAccountReader]
+2018-06-25 11:20:30,160 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-25 11:20:30,161 INFO  [SoapUIProTestCaseRunner] running step [getCmsAccount]
+2018-06-25 11:20:30,196 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-25 11:20:30,197 INFO  [SoapUIProTestCaseRunner] running step [getCmsAccount]
+2018-06-25 11:20:32,270 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-GetCmsAccount], time taken: 4170ms, status: FINISHED
+2018-06-25 11:20:32,271 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-GetBeneficiary]
+2018-06-25 11:20:32,271 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
+2018-06-25 11:20:32,454 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-25 11:20:32,455 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-25 11:20:33,337 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-25 11:20:33,338 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-25 11:20:34,895 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
+2018-06-25 11:20:34,896 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-25 11:20:35,034 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-25 11:20:35,034 INFO  [SoapUIProTestCaseRunner] running step [getBeneficiary]
+2018-06-25 11:20:35,093 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-25 11:20:35,094 INFO  [SoapUIProTestCaseRunner] running step [getBeneficiary]
+2018-06-25 11:20:38,182 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-GetBeneficiary], time taken: 5825ms, status: FINISHED
+2018-06-25 11:20:38,183 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-ChangeRegisPIN]
+2018-06-25 11:20:38,184 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
+2018-06-25 11:20:38,328 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-25 11:20:38,346 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-25 11:20:39,069 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-25 11:20:39,070 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-25 11:20:40,327 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
+2018-06-25 11:20:40,327 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-25 11:20:40,479 INFO  [log] Début du test -- Cas : C 000
+2018-06-25 11:20:40,479 INFO  [SoapUIProTestCaseRunner] running step [ChangeRegisPIN]
+2018-06-25 11:20:40,554 INFO  [log] Fin du test -- Cas : C
+2018-06-25 11:20:40,555 INFO  [SoapUIProTestCaseRunner] running step [ChangeRegisPIN]
+2018-06-25 11:20:41,723 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-ChangeRegisPIN], time taken: 3313ms, status: FINISHED
+2018-06-25 11:20:41,724 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-GetMobileAccount]
+2018-06-25 11:20:41,725 INFO  [SoapUIProTestCaseRunner] running step [loginreader]
+2018-06-25 11:20:41,873 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-25 11:20:41,873 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-25 11:20:42,611 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-25 11:20:42,612 INFO  [SoapUIProTestCaseRunner] running step [login]
