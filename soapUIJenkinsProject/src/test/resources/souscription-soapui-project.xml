@@ -1420,7 +1420,7 @@ import com.eviware.soapui.support.types.StringToStringMap
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace_webservice/file1.xlsx";
+        def path = "/Users/mac/git/testAutomation/soapUIJenkinsProject/src/main/resources/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(74);
