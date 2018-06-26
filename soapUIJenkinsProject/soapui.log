@@ -1,246 +1,1064 @@
-2018-06-25 11:19:48,441 WARN  [SoapUI] Missing folder [/Users/mac/Desktop/S2M/workspace/soapUIJenkinsProject/./ext] for external libraries
-2018-06-25 11:19:49,134 INFO  [DefaultSoapUICore] initialized soapui-settings from [/Users/mac/soapui-settings.xml]
-2018-06-25 11:19:50,698 WARN  [SoapUIProGroovyScriptEngineFactory] Missing scripts folder [/Users/mac/Desktop/S2M/workspace/soapUIJenkinsProject/scripts]
-2018-06-25 11:19:55,112 INFO  [WsdlProject] Loaded project from [file:/Users/mac/Desktop/S2M/workspace/soapUIJenkinsProject/src/test/resources/souscription-soapui-project.xml]
-2018-06-25 11:19:55,865 WARN  [SoapUIProGroovyScriptEngineFactory] Missing scripts folder [/Users/mac/Desktop/S2M/workspace/soapUIJenkinsProject/scripts]
-2018-06-25 11:19:56,733 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:56,792 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:56,979 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:56,981 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:56,984 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:56,986 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:56,988 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:56,990 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:56,992 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:56,995 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:56,996 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:56,998 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:56,999 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,001 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,002 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,004 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,006 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,009 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,011 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,012 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,014 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,015 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,017 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,020 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,022 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,024 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,025 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,027 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,028 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,030 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,032 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,034 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,035 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,037 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,038 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,139 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,141 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,143 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,144 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,146 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,148 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,149 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,151 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,155 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,157 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,157 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,159 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,160 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,162 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,165 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,166 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,168 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,169 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,171 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,173 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,174 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,175 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,176 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,178 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,179 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,181 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,182 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,183 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,184 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,185 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,186 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,188 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,189 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,190 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,192 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,193 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,194 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,195 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,196 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,197 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,198 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,199 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,219 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,220 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,221 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,222 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,224 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,225 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,226 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,227 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,228 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,229 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,231 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,231 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,233 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,234 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,235 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,236 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,238 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,239 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,241 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,242 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,244 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,245 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,247 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,248 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,250 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,251 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,254 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,255 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,257 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,258 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,260 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,261 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,264 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,265 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,267 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,268 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,270 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,271 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:57,273 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-06-25 11:19:58,701 INFO  [SoapUIProTestCaseRunner] Setting project property [message] to [Hello World!]
-2018-06-25 11:19:58,702 INFO  [SoapUIProTestCaseRunner] Running SoapUI tests in project [souscription]
-2018-06-25 11:19:58,876 INFO  [SoapUIProTestCaseRunner] Running Project [souscription], runType = SEQUENTIAL
-2018-06-25 11:19:58,949 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-ChangePassword]
-2018-06-25 11:19:59,192 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
-2018-06-25 11:20:06,353 INFO  [log] Début du test -- Cas : 1.0 000
-2018-06-25 11:20:06,399 INFO  [SoapUIProTestCaseRunner] running step [login]
-2018-06-25 11:20:08,575 INFO  [log] Fin du test -- Cas : 1.0
-2018-06-25 11:20:08,608 INFO  [SoapUIProTestCaseRunner] running step [login]
-2018-06-25 11:20:09,378 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
-2018-06-25 11:20:09,446 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
-2018-06-25 11:20:09,730 INFO  [log] Début du test -- Cas : 1.0 000
-2018-06-25 11:20:09,730 INFO  [SoapUIProTestCaseRunner] running step [changePassword]
-2018-06-25 11:20:09,771 INFO  [log] Fin du test -- Cas : 1.0
-2018-06-25 11:20:09,810 INFO  [SoapUIProTestCaseRunner] running step [changePassword]
-2018-06-25 11:20:11,198 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-ChangePassword], time taken: 12693ms, status: FINISHED
-2018-06-25 11:20:11,214 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-logout]
-2018-06-25 11:20:11,215 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
-2018-06-25 11:20:11,521 INFO  [log] Début du test -- Cas : 1.0 000
-2018-06-25 11:20:11,522 INFO  [SoapUIProTestCaseRunner] running step [login]
-2018-06-25 11:20:12,375 INFO  [log] Fin du test -- Cas : 1.0
-2018-06-25 11:20:12,375 INFO  [SoapUIProTestCaseRunner] running step [login]
-2018-06-25 11:20:13,712 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
-2018-06-25 11:20:13,713 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
-2018-06-25 11:20:13,920 INFO  [log] Début du test -- Cas : 1.0 000
-2018-06-25 11:20:13,920 INFO  [SoapUIProTestCaseRunner] running step [logOut]
-2018-06-25 11:20:13,965 INFO  [log] Fin du test -- Cas : 1.0
-2018-06-25 11:20:13,966 INFO  [SoapUIProTestCaseRunner] running step [logOut]
-2018-06-25 11:20:14,571 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-logout], time taken: 3217ms, status: FINISHED
-2018-06-25 11:20:14,572 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-ChangeRegisPIN]
-2018-06-25 11:20:14,573 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
-2018-06-25 11:20:14,778 INFO  [log] Début du test -- Cas : 1.0 000
-2018-06-25 11:20:14,778 INFO  [SoapUIProTestCaseRunner] running step [login]
-2018-06-25 11:20:15,743 INFO  [log] Fin du test -- Cas : 1.0
-2018-06-25 11:20:15,744 INFO  [SoapUIProTestCaseRunner] running step [login]
-2018-06-25 11:20:17,072 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
-2018-06-25 11:20:17,072 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
-2018-06-25 11:20:17,258 INFO  [log] Début du test -- Cas : 1.0 000
-2018-06-25 11:20:17,259 INFO  [SoapUIProTestCaseRunner] running step [changeRegisPin]
-2018-06-25 11:20:17,293 INFO  [log] Fin du test -- Cas : 1.0
-2018-06-25 11:20:17,295 INFO  [SoapUIProTestCaseRunner] running step [changeRegisPin]
-2018-06-25 11:20:17,914 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-ChangeRegisPIN], time taken: 3305ms, status: FINISHED
-2018-06-25 11:20:17,915 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-login]
-2018-06-25 11:20:17,916 INFO  [SoapUIProTestCaseRunner] running step [authenticate]
-2018-06-25 11:20:18,533 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
-2018-06-25 11:20:18,714 INFO  [log] Début du test -- Cas : 1.0 307
-2018-06-25 11:20:18,714 INFO  [SoapUIProTestCaseRunner] running step [authenticate]
-2018-06-25 11:20:19,231 INFO  [log] Fin du test -- Cas : 1.0
-2018-06-25 11:20:19,231 INFO  [log] Début du test -- Cas : 1.1 384
-2018-06-25 11:20:19,231 INFO  [SoapUIProTestCaseRunner] running step [authenticate]
-2018-06-25 11:20:19,754 INFO  [log] Fin du test -- Cas : 1.1
-2018-06-25 11:20:19,754 INFO  [log] Début du test -- Cas : 1.3 370
-2018-06-25 11:20:19,754 INFO  [SoapUIProTestCaseRunner] running step [authenticate]
-2018-06-25 11:20:20,373 INFO  [log] Fin du test -- Cas : 1.3
-2018-06-25 11:20:20,374 INFO  [log] Début du test -- Cas : 1.0 000
-2018-06-25 11:20:20,374 INFO  [SoapUIProTestCaseRunner] running step [authenticate]
-2018-06-25 11:20:21,713 INFO  [log] Fin du test -- Cas : 1.0
-2018-06-25 11:20:21,713 INFO  [log] Début du test -- Cas : 1.1 000
-2018-06-25 11:20:21,714 INFO  [SoapUIProTestCaseRunner] running step [authenticate]
-2018-06-25 11:20:23,218 INFO  [log] Fin du test -- Cas : 1.1
-2018-06-25 11:20:23,218 INFO  [log] Début du test -- Cas : 1.0 000
-2018-06-25 11:20:23,218 INFO  [SoapUIProTestCaseRunner] running step [authenticate]
-2018-06-25 11:20:24,218 INFO  [log] Fin du test -- Cas : 1.0
-2018-06-25 11:20:24,258 INFO  [log] Début du test -- Cas : null null
-2018-06-25 11:20:24,258 INFO  [SoapUIProTestCaseRunner] running step [authenticate]
-2018-06-25 11:20:24,270 INFO  [log] Fin du test -- Cas : null
-2018-06-25 11:20:24,270 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-login], time taken: 8808ms, status: FINISHED
-2018-06-25 11:20:24,271 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-AddAccount]
-2018-06-25 11:20:24,272 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
-2018-06-25 11:20:24,458 INFO  [log] Début du test -- Cas : 1.0 000
-2018-06-25 11:20:24,459 INFO  [SoapUIProTestCaseRunner] running step [login]
-2018-06-25 11:20:25,136 INFO  [log] Fin du test -- Cas : 1.0
-2018-06-25 11:20:25,136 INFO  [SoapUIProTestCaseRunner] running step [login]
-2018-06-25 11:20:26,334 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
-2018-06-25 11:20:26,334 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
-2018-06-25 11:20:26,495 INFO  [log] Début du test -- Cas : 1.0 000
-2018-06-25 11:20:26,495 INFO  [SoapUIProTestCaseRunner] running step [addAccount]
-2018-06-25 11:20:26,532 INFO  [log] Fin du test -- Cas : 1.0
-2018-06-25 11:20:26,533 INFO  [SoapUIProTestCaseRunner] running step [addAccount]
-2018-06-25 11:20:27,772 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-AddAccount], time taken: 3187ms, status: FINISHED
-2018-06-25 11:20:27,773 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-GetCmsAccount]
-2018-06-25 11:20:27,773 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
-2018-06-25 11:20:27,956 INFO  [log] Début du test -- Cas : 1.0 000
-2018-06-25 11:20:27,956 INFO  [SoapUIProTestCaseRunner] running step [login]
-2018-06-25 11:20:28,645 INFO  [log] Fin du test -- Cas : 1.0
-2018-06-25 11:20:28,645 INFO  [SoapUIProTestCaseRunner] running step [login]
-2018-06-25 11:20:29,991 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
-2018-06-25 11:20:29,992 INFO  [SoapUIProTestCaseRunner] running step [CmsAccountReader]
-2018-06-25 11:20:30,160 INFO  [log] Début du test -- Cas : 1.0 000
-2018-06-25 11:20:30,161 INFO  [SoapUIProTestCaseRunner] running step [getCmsAccount]
-2018-06-25 11:20:30,196 INFO  [log] Fin du test -- Cas : 1.0
-2018-06-25 11:20:30,197 INFO  [SoapUIProTestCaseRunner] running step [getCmsAccount]
-2018-06-25 11:20:32,270 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-GetCmsAccount], time taken: 4170ms, status: FINISHED
-2018-06-25 11:20:32,271 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-GetBeneficiary]
-2018-06-25 11:20:32,271 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
-2018-06-25 11:20:32,454 INFO  [log] Début du test -- Cas : 1.0 000
-2018-06-25 11:20:32,455 INFO  [SoapUIProTestCaseRunner] running step [login]
-2018-06-25 11:20:33,337 INFO  [log] Fin du test -- Cas : 1.0
-2018-06-25 11:20:33,338 INFO  [SoapUIProTestCaseRunner] running step [login]
-2018-06-25 11:20:34,895 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
-2018-06-25 11:20:34,896 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
-2018-06-25 11:20:35,034 INFO  [log] Début du test -- Cas : 1.0 000
-2018-06-25 11:20:35,034 INFO  [SoapUIProTestCaseRunner] running step [getBeneficiary]
-2018-06-25 11:20:35,093 INFO  [log] Fin du test -- Cas : 1.0
-2018-06-25 11:20:35,094 INFO  [SoapUIProTestCaseRunner] running step [getBeneficiary]
-2018-06-25 11:20:38,182 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-GetBeneficiary], time taken: 5825ms, status: FINISHED
-2018-06-25 11:20:38,183 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-ChangeRegisPIN]
-2018-06-25 11:20:38,184 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
-2018-06-25 11:20:38,328 INFO  [log] Début du test -- Cas : 1.0 000
-2018-06-25 11:20:38,346 INFO  [SoapUIProTestCaseRunner] running step [login]
-2018-06-25 11:20:39,069 INFO  [log] Fin du test -- Cas : 1.0
-2018-06-25 11:20:39,070 INFO  [SoapUIProTestCaseRunner] running step [login]
-2018-06-25 11:20:40,327 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
-2018-06-25 11:20:40,327 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
-2018-06-25 11:20:40,479 INFO  [log] Début du test -- Cas : C 000
-2018-06-25 11:20:40,479 INFO  [SoapUIProTestCaseRunner] running step [ChangeRegisPIN]
-2018-06-25 11:20:40,554 INFO  [log] Fin du test -- Cas : C
-2018-06-25 11:20:40,555 INFO  [SoapUIProTestCaseRunner] running step [ChangeRegisPIN]
-2018-06-25 11:20:41,723 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-ChangeRegisPIN], time taken: 3313ms, status: FINISHED
-2018-06-25 11:20:41,724 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-GetMobileAccount]
-2018-06-25 11:20:41,725 INFO  [SoapUIProTestCaseRunner] running step [loginreader]
-2018-06-25 11:20:41,873 INFO  [log] Début du test -- Cas : 1.0 000
-2018-06-25 11:20:41,873 INFO  [SoapUIProTestCaseRunner] running step [login]
-2018-06-25 11:20:42,611 INFO  [log] Fin du test -- Cas : 1.0
-2018-06-25 11:20:42,612 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:24:16,532 WARN  [SoapUI] Missing folder [/Users/mac/git/testAutomation/soapUIJenkinsProject/./ext] for external libraries
+2018-06-26 10:24:18,874 INFO  [DefaultSoapUICore] initialized soapui-settings from [/Users/mac/soapui-settings.xml]
+2018-06-26 10:24:20,424 WARN  [SoapUIProGroovyScriptEngineFactory] Missing scripts folder [/Users/mac/git/testAutomation/soapUIJenkinsProject/scripts]
+2018-06-26 10:24:26,722 INFO  [WsdlProject] Loaded project from [file:/Users/mac/git/testAutomation/soapUIJenkinsProject/src/test/resources/souscription-soapui-project.xml]
+2018-06-26 10:24:29,984 WARN  [SoapUIProGroovyScriptEngineFactory] Missing scripts folder [/Users/mac/git/testAutomation/soapUIJenkinsProject/scripts]
+2018-06-26 10:24:33,065 INFO  [SoapUIProTestCaseRunner] Setting project property [message] to [Hello World!]
+2018-06-26 10:24:33,066 INFO  [SoapUIProTestCaseRunner] Running SoapUI tests in project [souscription]
+2018-06-26 10:24:33,096 INFO  [SoapUIProTestCaseRunner] Running Project [souscription], runType = SEQUENTIAL
+2018-06-26 10:24:33,175 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-ChangePassword]
+2018-06-26 10:24:33,199 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
+2018-06-26 10:24:35,827 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:24:35,864 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:24:39,604 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:24:39,661 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:24:40,550 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:24:40,550 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
+2018-06-26 10:24:40,629 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:24:40,964 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:24:40,964 INFO  [SoapUIProTestCaseRunner] running step [changePassword]
+2018-06-26 10:24:40,999 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:24:41,094 INFO  [SoapUIProTestCaseRunner] running step [changePassword]
+2018-06-26 10:24:42,507 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:24:42,531 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-ChangePassword], time taken: 11702ms, status: FINISHED
+2018-06-26 10:24:42,533 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-logout]
+2018-06-26 10:24:42,533 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
+2018-06-26 10:24:42,796 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:24:42,835 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:24:43,737 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:24:43,738 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:24:45,155 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:24:45,155 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
+2018-06-26 10:24:45,156 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:24:45,374 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:24:45,383 INFO  [SoapUIProTestCaseRunner] running step [logOut]
+2018-06-26 10:24:45,425 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:24:45,425 INFO  [SoapUIProTestCaseRunner] running step [logOut]
+2018-06-26 10:24:47,958 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:24:47,958 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-logout], time taken: 5335ms, status: FINISHED
+2018-06-26 10:24:47,960 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-ChangeRegisPIN]
+2018-06-26 10:24:47,960 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
+2018-06-26 10:24:48,182 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:24:48,182 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:24:49,064 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:24:49,064 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:24:50,498 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:24:50,498 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
+2018-06-26 10:24:50,499 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:24:50,674 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:24:50,674 INFO  [SoapUIProTestCaseRunner] running step [changeRegisPin]
+2018-06-26 10:24:50,708 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:24:50,709 INFO  [SoapUIProTestCaseRunner] running step [changeRegisPin]
+2018-06-26 10:24:51,331 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:24:51,332 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-ChangeRegisPIN], time taken: 3260ms, status: FINISHED
+2018-06-26 10:24:51,333 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-login]
+2018-06-26 10:24:51,333 INFO  [SoapUIProTestCaseRunner] running step [authenticate]
+2018-06-26 10:24:52,023 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:24:52,023 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:24:52,231 INFO  [log] Début du test -- Cas : 1.0 307
+2018-06-26 10:24:52,232 INFO  [SoapUIProTestCaseRunner] running step [authenticate]
+2018-06-26 10:24:52,747 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:24:52,748 INFO  [log] Début du test -- Cas : 1.1 384
+2018-06-26 10:24:52,748 INFO  [SoapUIProTestCaseRunner] running step [authenticate]
+2018-06-26 10:24:53,264 INFO  [log] Fin du test -- Cas : 1.1
+2018-06-26 10:24:53,265 INFO  [log] Début du test -- Cas : 1.3 370
+2018-06-26 10:24:53,265 INFO  [SoapUIProTestCaseRunner] running step [authenticate]
+2018-06-26 10:24:53,878 INFO  [log] Fin du test -- Cas : 1.3
+2018-06-26 10:24:53,878 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:24:53,878 INFO  [SoapUIProTestCaseRunner] running step [authenticate]
+2018-06-26 10:24:55,242 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:24:55,243 INFO  [log] Début du test -- Cas : 1.1 000
+2018-06-26 10:24:55,243 INFO  [SoapUIProTestCaseRunner] running step [authenticate]
+2018-06-26 10:24:58,480 INFO  [log] Fin du test -- Cas : 1.1
+2018-06-26 10:24:58,480 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:24:58,481 INFO  [SoapUIProTestCaseRunner] running step [authenticate]
+2018-06-26 10:24:59,511 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:24:59,533 INFO  [log] Début du test -- Cas : null null
+2018-06-26 10:24:59,533 INFO  [SoapUIProTestCaseRunner] running step [authenticate]
+2018-06-26 10:25:00,047 INFO  [log] Fin du test -- Cas : null
+2018-06-26 10:25:00,048 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-login], time taken: 12944ms, status: FINISHED
+2018-06-26 10:25:00,049 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-AddAccount]
+2018-06-26 10:25:00,049 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
+2018-06-26 10:25:00,227 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:25:00,227 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:25:01,192 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:25:01,192 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:25:02,704 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:25:02,728 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
+2018-06-26 10:25:02,729 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:25:02,884 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:25:02,884 INFO  [SoapUIProTestCaseRunner] running step [addAccount]
+2018-06-26 10:25:02,915 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:25:02,916 INFO  [SoapUIProTestCaseRunner] running step [addAccount]
+2018-06-26 10:25:05,961 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:25:05,962 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-AddAccount], time taken: 5860ms, status: FINISHED
+2018-06-26 10:25:05,963 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-GetCmsAccount]
+2018-06-26 10:25:05,963 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
+2018-06-26 10:25:06,129 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:25:06,129 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:25:06,911 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:25:06,911 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:25:08,464 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:25:08,464 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
+2018-06-26 10:25:08,464 INFO  [SoapUIProTestCaseRunner] running step [CmsAccountReader]
+2018-06-26 10:25:08,633 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:25:08,633 INFO  [SoapUIProTestCaseRunner] running step [getCmsAccount]
+2018-06-26 10:25:08,665 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:25:08,666 INFO  [SoapUIProTestCaseRunner] running step [getCmsAccount]
+2018-06-26 10:25:12,036 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:25:12,037 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-GetCmsAccount], time taken: 5837ms, status: FINISHED
+2018-06-26 10:25:12,038 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-GetBeneficiary]
+2018-06-26 10:25:12,038 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
+2018-06-26 10:25:12,209 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:25:12,210 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:25:12,893 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:25:12,894 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:25:14,185 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:25:14,185 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
+2018-06-26 10:25:14,185 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:25:14,333 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:25:14,333 INFO  [SoapUIProTestCaseRunner] running step [getBeneficiary]
+2018-06-26 10:25:14,366 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:25:14,367 INFO  [SoapUIProTestCaseRunner] running step [getBeneficiary]
+2018-06-26 10:25:16,383 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:25:16,383 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-GetBeneficiary], time taken: 4038ms, status: FINISHED
+2018-06-26 10:25:16,384 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-ChangeRegisPIN]
+2018-06-26 10:25:16,384 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
+2018-06-26 10:25:16,523 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:25:16,537 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:25:17,178 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:25:17,178 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:25:18,278 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:25:18,279 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
+2018-06-26 10:25:18,279 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:25:18,420 INFO  [log] Début du test -- Cas : C 000
+2018-06-26 10:25:18,421 INFO  [SoapUIProTestCaseRunner] running step [ChangeRegisPIN]
+2018-06-26 10:25:18,452 INFO  [log] Fin du test -- Cas : C
+2018-06-26 10:25:18,453 INFO  [SoapUIProTestCaseRunner] running step [ChangeRegisPIN]
+2018-06-26 10:25:19,431 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:25:19,431 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-ChangeRegisPIN], time taken: 2694ms, status: FINISHED
+2018-06-26 10:25:19,432 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-GetMobileAccount]
+2018-06-26 10:25:19,432 INFO  [SoapUIProTestCaseRunner] running step [loginreader]
+2018-06-26 10:25:19,595 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:25:19,596 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:25:20,339 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:25:20,339 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:25:21,938 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:25:21,938 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
+2018-06-26 10:25:21,938 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:25:22,082 INFO  [log] Début du test -- Cas : C 000
+2018-06-26 10:25:22,097 INFO  [SoapUIProTestCaseRunner] running step [GetMobileAccount]
+2018-06-26 10:25:22,121 INFO  [log] Fin du test -- Cas : C
+2018-06-26 10:25:22,122 INFO  [SoapUIProTestCaseRunner] running step [GetMobileAccount]
+2018-06-26 10:25:22,866 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:25:22,866 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-GetMobileAccount], time taken: 3180ms, status: FINISHED
+2018-06-26 10:25:22,867 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-addBeneficiary]
+2018-06-26 10:25:22,867 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
+2018-06-26 10:25:23,014 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:25:23,014 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:25:23,518 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:25:23,518 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:25:24,659 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:25:24,659 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
+2018-06-26 10:25:24,659 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:25:24,795 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:25:24,795 INFO  [SoapUIProTestCaseRunner] running step [AddBeneficiary]
+2018-06-26 10:25:24,823 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:25:24,823 INFO  [SoapUIProTestCaseRunner] running step [AddBeneficiary]
+2018-06-26 10:25:26,137 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:25:26,137 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-addBeneficiary], time taken: 2779ms, status: FINISHED
+2018-06-26 10:25:26,138 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-GetCustomerAgentInformations]
+2018-06-26 10:25:26,138 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
+2018-06-26 10:25:26,282 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:25:26,282 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:25:27,030 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:25:27,030 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:25:28,548 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:25:28,563 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
+2018-06-26 10:25:28,564 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:25:28,696 INFO  [log] Début du test -- Cas : C 000
+2018-06-26 10:25:28,716 INFO  [SoapUIProTestCaseRunner] running step [GetCustomerAgentInformations]
+2018-06-26 10:25:28,748 INFO  [log] Fin du test -- Cas : C
+2018-06-26 10:25:28,748 INFO  [SoapUIProTestCaseRunner] running step [GetCustomerAgentInformations]
+2018-06-26 10:25:30,227 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:25:30,227 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-GetCustomerAgentInformations], time taken: 3826ms, status: FINISHED
+2018-06-26 10:25:30,228 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-updateStatus]
+2018-06-26 10:25:30,229 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
+2018-06-26 10:25:30,363 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:25:30,363 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:25:31,318 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:25:31,319 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:25:32,766 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:25:32,766 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
+2018-06-26 10:25:32,766 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:25:32,897 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:25:32,897 INFO  [SoapUIProTestCaseRunner] running step [updateAgCusStatus]
+2018-06-26 10:25:32,927 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:25:32,927 INFO  [SoapUIProTestCaseRunner] running step [updateAgCusStatus]
+2018-06-26 10:25:33,551 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:25:33,552 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-updateStatus], time taken: 3285ms, status: FINISHED
+2018-06-26 10:25:33,553 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-UpdateAccountStatus]
+2018-06-26 10:25:33,553 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
+2018-06-26 10:25:33,678 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:25:33,687 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:25:34,611 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:25:34,612 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:25:36,025 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:25:36,025 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
+2018-06-26 10:25:36,025 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:25:36,151 INFO  [log] Début du test -- Cas : ANDROID 000
+2018-06-26 10:25:36,152 INFO  [SoapUIProTestCaseRunner] running step [updateMobileAccount]
+2018-06-26 10:25:36,189 INFO  [log] Fin du test -- Cas : ANDROID
+2018-06-26 10:25:36,190 INFO  [SoapUIProTestCaseRunner] running step [updateMobileAccount]
+2018-06-26 10:25:36,982 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:25:36,982 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-UpdateAccountStatus], time taken: 3370ms, status: FINISHED
+2018-06-26 10:25:36,984 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-UpdateCustomerAgent]
+2018-06-26 10:25:36,984 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
+2018-06-26 10:25:37,120 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:25:37,120 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:25:37,988 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:25:37,988 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:25:39,343 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:25:39,343 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
+2018-06-26 10:25:39,343 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:25:39,488 INFO  [log] Début du test -- Cas : C 000
+2018-06-26 10:25:39,489 INFO  [SoapUIProTestCaseRunner] running step [UpdateCustomerAgentInforamtions]
+2018-06-26 10:25:41,358 INFO  [log] Fin du test -- Cas : C
+2018-06-26 10:25:41,358 INFO  [SoapUIProTestCaseRunner] running step [UpdateCustomerAgentInforamtions]
+2018-06-26 10:25:42,167 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:25:42,168 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-UpdateCustomerAgent], time taken: 6899ms, status: FINISHED
+2018-06-26 10:25:42,169 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-SetDefaultAccount]
+2018-06-26 10:25:42,169 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
+2018-06-26 10:25:42,311 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:25:42,311 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:25:43,299 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:25:43,299 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:25:44,866 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:25:44,866 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
+2018-06-26 10:25:44,866 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:25:45,004 INFO  [log] Début du test -- Cas : C 000
+2018-06-26 10:25:45,004 INFO  [SoapUIProTestCaseRunner] running step [SetDefaultAccount]
+2018-06-26 10:25:45,035 INFO  [log] Fin du test -- Cas : C
+2018-06-26 10:25:45,036 INFO  [SoapUIProTestCaseRunner] running step [SetDefaultAccount]
+2018-06-26 10:25:45,669 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:25:45,669 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-SetDefaultAccount], time taken: 3493ms, status: FINISHED
+2018-06-26 10:25:45,671 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-suspendBeneficiary]
+2018-06-26 10:25:45,671 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
+2018-06-26 10:25:45,802 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:25:45,802 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:25:46,917 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:25:46,917 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:25:48,343 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:25:48,343 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
+2018-06-26 10:25:48,344 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:25:48,486 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:25:48,486 INFO  [SoapUIProTestCaseRunner] running step [SuspendBeneficiary]
+2018-06-26 10:25:48,512 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:25:48,513 INFO  [SoapUIProTestCaseRunner] running step [SuspendBeneficiary]
+2018-06-26 10:25:49,291 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:25:49,332 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-suspendBeneficiary], time taken: 3736ms, status: FINISHED
+2018-06-26 10:25:49,334 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-sendToken]
+2018-06-26 10:25:49,334 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
+2018-06-26 10:25:49,494 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:25:49,528 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:25:50,391 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:25:50,393 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:25:51,781 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:25:51,782 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
+2018-06-26 10:25:51,782 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:25:51,914 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:25:51,914 INFO  [SoapUIProTestCaseRunner] running step [sendToken]
+2018-06-26 10:25:52,189 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:25:52,191 INFO  [SoapUIProTestCaseRunner] running step [sendToken]
+2018-06-26 10:25:52,971 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:25:52,971 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-sendToken], time taken: 3752ms, status: FINISHED
+2018-06-26 10:25:52,973 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-ForgotUserName]
+2018-06-26 10:25:52,973 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:25:53,101 INFO  [log] Début du test -- Cas : 1.1 000
+2018-06-26 10:25:53,101 INFO  [SoapUIProTestCaseRunner] running step [forgotUserName]
+2018-06-26 10:25:53,928 INFO  [log] Fin du test -- Cas : 1.1
+2018-06-26 10:25:53,928 INFO  [SoapUIProTestCaseRunner] running step [forgotUserName]
+2018-06-26 10:25:55,463 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:25:55,463 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-ForgotUserName], time taken: 2809ms, status: FINISHED
+2018-06-26 10:25:55,464 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-ForgotRegisPin]
+2018-06-26 10:25:55,464 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
+2018-06-26 10:25:55,613 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:25:55,613 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:25:56,487 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:25:56,487 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:25:57,950 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:25:57,950 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
+2018-06-26 10:25:57,950 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:25:58,080 INFO  [log] Début du test -- Cas : 1.0 196
+2018-06-26 10:25:58,080 INFO  [SoapUIProTestCaseRunner] running step [forgotRegisPin]
+2018-06-26 10:25:58,198 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:25:58,198 INFO  [SoapUIProTestCaseRunner] running step [forgotRegisPin]
+2018-06-26 10:25:58,788 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:25:58,788 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-ForgotRegisPin], time taken: 3297ms, status: FINISHED
+2018-06-26 10:25:58,789 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT_forgotPassword]
+2018-06-26 10:25:58,789 INFO  [SoapUIProTestCaseRunner] running step [forgotPassword]
+2018-06-26 10:25:59,510 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:25:59,510 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:25:59,645 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:25:59,645 INFO  [SoapUIProTestCaseRunner] running step [forgotPassword]
+2018-06-26 10:26:01,039 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:26:01,039 INFO  [log] Début du test -- Cas : 1.0 300
+2018-06-26 10:26:01,039 INFO  [SoapUIProTestCaseRunner] running step [forgotPassword]
+2018-06-26 10:26:02,479 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:26:02,555 INFO  [log] Début du test -- Cas : 1.0 381
+2018-06-26 10:26:02,555 INFO  [SoapUIProTestCaseRunner] running step [forgotPassword]
+2018-06-26 10:26:03,171 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:26:03,171 INFO  [log] Début du test -- Cas : 1.0 312
+2018-06-26 10:26:03,171 INFO  [SoapUIProTestCaseRunner] running step [forgotPassword]
+2018-06-26 10:26:04,293 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:26:04,293 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT_forgotPassword], time taken: 8550ms, status: FINISHED
+2018-06-26 10:26:04,294 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-CheckPIN]
+2018-06-26 10:26:04,294 INFO  [SoapUIProTestCaseRunner] running step [CheckPIN]
+2018-06-26 10:26:04,576 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:26:04,576 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:26:04,702 INFO  [log] Début du test -- Cas : A 000
+2018-06-26 10:26:04,702 INFO  [SoapUIProTestCaseRunner] running step [CheckPIN]
+2018-06-26 10:26:05,471 INFO  [log] Fin du test -- Cas : A
+2018-06-26 10:26:05,471 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-CheckPIN], time taken: 1437ms, status: FINISHED
+2018-06-26 10:26:05,472 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-GetMySercretQuestion]
+2018-06-26 10:26:05,472 INFO  [SoapUIProTestCaseRunner] running step [getMySecretQuestion]
+2018-06-26 10:26:05,515 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:26:05,515 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:26:05,653 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:26:05,653 INFO  [SoapUIProTestCaseRunner] running step [getMySecretQuestion]
+2018-06-26 10:26:06,360 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:26:06,361 INFO  [log] Début du test -- Cas : 1.0 307
+2018-06-26 10:26:06,361 INFO  [SoapUIProTestCaseRunner] running step [getMySecretQuestion]
+2018-06-26 10:26:09,244 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:26:09,334 INFO  [log] Début du test -- Cas : 1.0 300
+2018-06-26 10:26:09,334 INFO  [SoapUIProTestCaseRunner] running step [getMySecretQuestion]
+2018-06-26 10:26:09,794 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:26:09,794 INFO  [log] Début du test -- Cas : 1.0 384
+2018-06-26 10:26:09,794 INFO  [SoapUIProTestCaseRunner] running step [getMySecretQuestion]
+2018-06-26 10:26:10,313 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:26:10,313 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-GetMySercretQuestion], time taken: 7677ms, status: FINISHED
+2018-06-26 10:26:10,314 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-ForgotMySecretQuestion]
+2018-06-26 10:26:10,314 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
+2018-06-26 10:26:10,478 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:26:10,479 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:26:11,459 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:26:11,459 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:26:12,867 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:26:12,867 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
+2018-06-26 10:26:12,867 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:26:12,997 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:26:12,997 INFO  [SoapUIProTestCaseRunner] running step [forgotSecretQuestion]
+2018-06-26 10:26:13,110 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:26:13,111 INFO  [SoapUIProTestCaseRunner] running step [forgotSecretQuestion]
+2018-06-26 10:26:13,734 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:26:13,734 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-ForgotMySecretQuestion], time taken: 3490ms, status: FINISHED
+2018-06-26 10:26:13,735 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-CheckLogin]
+2018-06-26 10:26:13,735 INFO  [SoapUIProTestCaseRunner] running step [checkLogin]
+2018-06-26 10:26:13,749 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:26:13,749 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:26:13,875 INFO  [log] Début du test -- Cas : 1.0 311 
+2018-06-26 10:26:13,875 INFO  [SoapUIProTestCaseRunner] running step [checkLogin]
+2018-06-26 10:26:14,523 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:26:14,551 INFO  [log] Début du test -- Cas : 1.0 307
+2018-06-26 10:26:14,551 INFO  [SoapUIProTestCaseRunner] running step [checkLogin]
+2018-06-26 10:26:15,165 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:26:15,165 INFO  [log] Début du test -- Cas : 1.0 300
+2018-06-26 10:26:15,165 INFO  [SoapUIProTestCaseRunner] running step [checkLogin]
+2018-06-26 10:26:15,764 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:26:15,764 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:26:15,764 INFO  [SoapUIProTestCaseRunner] running step [checkLogin]
+2018-06-26 10:26:16,364 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:26:16,423 INFO  [log] Début du test -- Cas : 1.2 384
+2018-06-26 10:26:16,423 INFO  [SoapUIProTestCaseRunner] running step [checkLogin]
+2018-06-26 10:26:16,941 INFO  [log] Fin du test -- Cas : 1.2
+2018-06-26 10:26:16,941 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-CheckLogin], time taken: 3653ms, status: FINISHED
+2018-06-26 10:26:16,942 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-GetContract]
+2018-06-26 10:26:16,942 INFO  [SoapUIProTestCaseRunner] running step [getContract]
+2018-06-26 10:26:16,956 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:26:16,956 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:26:17,092 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:26:17,092 INFO  [SoapUIProTestCaseRunner] running step [getContract]
+2018-06-26 10:26:17,780 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:26:17,780 INFO  [log] Début du test -- Cas : 1.0 307
+2018-06-26 10:26:17,781 INFO  [SoapUIProTestCaseRunner] running step [getContract]
+2018-06-26 10:26:18,300 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:26:18,301 INFO  [log] Début du test -- Cas : 1.0 300
+2018-06-26 10:26:18,301 INFO  [SoapUIProTestCaseRunner] running step [getContract]
+2018-06-26 10:26:19,006 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:26:19,007 INFO  [log] Début du test -- Cas : 1.3 384
+2018-06-26 10:26:19,089 INFO  [SoapUIProTestCaseRunner] running step [getContract]
+2018-06-26 10:26:19,607 INFO  [log] Fin du test -- Cas : 1.3
+2018-06-26 10:26:19,607 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-GetContract], time taken: 3063ms, status: FINISHED
+2018-06-26 10:26:19,608 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-EnrollAgent]
+2018-06-26 10:26:19,608 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:26:19,744 INFO  [log] Début du test -- Cas : 1.1 000
+2018-06-26 10:26:19,744 INFO  [SoapUIProTestCaseRunner] running step [enrollAgent]
+2018-06-26 10:26:19,940 INFO  [log] Fin du test -- Cas : 1.1
+2018-06-26 10:26:19,940 INFO  [SoapUIProTestCaseRunner] running step [enrollAgent]
+2018-06-26 10:26:20,569 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:26:20,569 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-EnrollAgent], time taken: 643ms, status: FINISHED
+2018-06-26 10:26:20,571 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-CheckOTP]
+2018-06-26 10:26:20,571 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:26:20,703 INFO  [log] Début du test -- Cas : 1.2 000
+2018-06-26 10:26:20,703 INFO  [SoapUIProTestCaseRunner] running step [checkOTP]
+2018-06-26 10:26:21,067 INFO  [log] Fin du test -- Cas : 1.2
+2018-06-26 10:26:21,067 INFO  [log] Début du test -- Cas : 1.1 307
+2018-06-26 10:26:21,068 INFO  [SoapUIProTestCaseRunner] running step [checkOTP]
+2018-06-26 10:26:22,188 INFO  [log] Fin du test -- Cas : 1.1
+2018-06-26 10:26:22,188 INFO  [log] Début du test -- Cas : 1.0 300
+2018-06-26 10:26:22,188 INFO  [SoapUIProTestCaseRunner] running step [checkOTP]
+2018-06-26 10:26:22,791 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:26:22,846 INFO  [log] Début du test -- Cas : 1.2 310
+2018-06-26 10:26:22,847 INFO  [SoapUIProTestCaseRunner] running step [checkOTP]
+2018-06-26 10:26:23,599 INFO  [log] Fin du test -- Cas : 1.2
+2018-06-26 10:26:23,599 INFO  [log] Début du test -- Cas : 1.3 384
+2018-06-26 10:26:23,599 INFO  [SoapUIProTestCaseRunner] running step [checkOTP]
+2018-06-26 10:26:24,115 INFO  [log] Fin du test -- Cas : 1.3
+2018-06-26 10:26:24,115 INFO  [SoapUIProTestCaseRunner] running step [checkOTP]
+2018-06-26 10:26:24,630 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:26:24,630 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-CheckOTP], time taken: 4888ms, status: FINISHED
+2018-06-26 10:26:24,631 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-CreatePIN]
+2018-06-26 10:26:24,631 INFO  [SoapUIProTestCaseRunner] running step [createPIN]
+2018-06-26 10:26:24,730 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:26:24,730 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:26:24,888 INFO  [log] Début du test -- Cas : 1.0 196
+2018-06-26 10:26:24,888 INFO  [SoapUIProTestCaseRunner] running step [createPIN]
+2018-06-26 10:26:25,492 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:26:25,492 INFO  [log] Début du test -- Cas : 1.0 307
+2018-06-26 10:26:25,492 INFO  [SoapUIProTestCaseRunner] running step [createPIN]
+2018-06-26 10:26:26,094 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:26:26,094 INFO  [log] Début du test -- Cas : 1.4 384
+2018-06-26 10:26:26,094 INFO  [SoapUIProTestCaseRunner] running step [createPIN]
+2018-06-26 10:26:26,611 INFO  [log] Fin du test -- Cas : 1.4
+2018-06-26 10:26:26,611 INFO  [log] Début du test -- Cas : 1.0 300
+2018-06-26 10:26:26,611 INFO  [SoapUIProTestCaseRunner] running step [createPIN]
+2018-06-26 10:26:27,216 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:26:27,218 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-CreatePIN], time taken: 2883ms, status: FINISHED
+2018-06-26 10:26:27,219 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-CheckToken]
+2018-06-26 10:26:27,219 INFO  [SoapUIProTestCaseRunner] running step [checkToken]
+2018-06-26 10:26:27,966 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:26:27,966 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:26:28,083 INFO  [log] Début du test --Cas: 1.2 307
+2018-06-26 10:26:28,084 INFO  [SoapUIProTestCaseRunner] running step [checkToken]
+2018-06-26 10:26:28,682 INFO  [log] Fin du test --cas: 1.2
+2018-06-26 10:26:28,682 INFO  [log] Début du test --Cas: 1.0 300
+2018-06-26 10:26:28,682 INFO  [SoapUIProTestCaseRunner] running step [checkToken]
+2018-06-26 10:26:29,581 INFO  [log] Fin du test --cas: 1.0
+2018-06-26 10:26:29,583 INFO  [log] Début du test --Cas: 1.2 305
+2018-06-26 10:26:29,583 INFO  [SoapUIProTestCaseRunner] running step [checkToken]
+2018-06-26 10:26:30,469 INFO  [log] Fin du test --cas: 1.2
+2018-06-26 10:26:30,469 INFO  [log] Début du test --Cas: 1.0 306
+2018-06-26 10:26:30,469 INFO  [SoapUIProTestCaseRunner] running step [checkToken]
+2018-06-26 10:26:31,264 INFO  [log] Fin du test --cas: 1.0
+2018-06-26 10:26:31,265 INFO  [log] Début du test --Cas: 1.3 384
+2018-06-26 10:26:31,265 INFO  [SoapUIProTestCaseRunner] running step [checkToken]
+2018-06-26 10:26:31,783 INFO  [log] Fin du test --cas: 1.3
+2018-06-26 10:26:31,783 INFO  [log] Début du test --Cas: 1.2 304
+2018-06-26 10:26:31,783 INFO  [SoapUIProTestCaseRunner] running step [checkToken]
+2018-06-26 10:26:33,032 INFO  [log] Fin du test --cas: 1.2
+2018-06-26 10:26:33,059 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-CheckToken], time taken: 7741ms, status: FINISHED
+2018-06-26 10:26:33,060 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-CheckPhone]
+2018-06-26 10:26:33,060 INFO  [SoapUIProTestCaseRunner] running step [checkPhone]
+2018-06-26 10:26:33,157 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:26:33,157 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:26:33,280 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:26:33,280 INFO  [SoapUIProTestCaseRunner] running step [checkPhone]
+2018-06-26 10:26:33,888 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:26:33,888 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-CheckPhone], time taken: 927ms, status: FINISHED
+2018-06-26 10:26:33,889 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-GenerateOTP]
+2018-06-26 10:26:33,889 INFO  [SoapUIProTestCaseRunner] running step [generateOTP]
+2018-06-26 10:26:33,997 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:26:33,997 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:26:34,139 INFO  [log] Début du test -- Cas : 1.0 300
+2018-06-26 10:26:34,139 INFO  [SoapUIProTestCaseRunner] running step [generateOTP]
+2018-06-26 10:26:34,866 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:26:34,866 INFO  [log] Début du test -- Cas : 1.0 384
+2018-06-26 10:26:34,866 INFO  [SoapUIProTestCaseRunner] running step [generateOTP]
+2018-06-26 10:26:35,386 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:26:35,386 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:26:35,386 INFO  [SoapUIProTestCaseRunner] running step [generateOTP]
+2018-06-26 10:26:36,117 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:26:36,117 INFO  [log] Début du test -- Cas : 1.0 307
+2018-06-26 10:26:36,117 INFO  [SoapUIProTestCaseRunner] running step [generateOTP]
+2018-06-26 10:26:36,630 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:26:36,631 INFO  [log] Début du test -- Cas : 1.0 196
+2018-06-26 10:26:36,631 INFO  [SoapUIProTestCaseRunner] running step [generateOTP]
+2018-06-26 10:26:37,234 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:26:37,234 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-GenerateOTP], time taken: 3902ms, status: FINISHED
+2018-06-26 10:26:37,265 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-GetSecretQuestions]
+2018-06-26 10:26:37,265 INFO  [SoapUIProTestCaseRunner] running step [getSecretQuestions]
+2018-06-26 10:26:37,468 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:26:37,468 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:26:37,596 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:26:37,596 INFO  [SoapUIProTestCaseRunner] running step [getSecretQuestions]
+2018-06-26 10:26:38,281 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:26:38,282 INFO  [log] Début du test -- Cas : 1.0 309
+2018-06-26 10:26:38,282 INFO  [SoapUIProTestCaseRunner] running step [getSecretQuestions]
+2018-06-26 10:26:38,987 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:26:38,987 INFO  [log] Début du test -- Cas : 1.0 307
+2018-06-26 10:26:38,987 INFO  [SoapUIProTestCaseRunner] running step [getSecretQuestions]
+2018-06-26 10:26:39,497 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:26:39,497 INFO  [log] Début du test -- Cas : 1.0 384
+2018-06-26 10:26:39,497 INFO  [SoapUIProTestCaseRunner] running step [getSecretQuestions]
+2018-06-26 10:26:40,016 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:26:40,016 INFO  [log] Début du test -- Cas : 1.0 300
+2018-06-26 10:26:40,016 INFO  [SoapUIProTestCaseRunner] running step [getSecretQuestions]
+2018-06-26 10:26:40,719 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:26:40,719 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-GetSecretQuestions], time taken: 4043ms, status: FINISHED
+2018-06-26 10:26:40,720 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-GenerateOTPUnbanked]
+2018-06-26 10:26:40,721 INFO  [SoapUIProTestCaseRunner] running step [generateOtpUnbanked]
+2018-06-26 10:26:40,738 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:26:40,738 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:26:40,857 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:26:40,882 INFO  [SoapUIProTestCaseRunner] running step [generateOtpUnbanked]
+2018-06-26 10:26:41,688 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:26:41,782 INFO  [log] Début du test -- Cas : 1.2 307
+2018-06-26 10:26:41,782 INFO  [SoapUIProTestCaseRunner] running step [generateOtpUnbanked]
+2018-06-26 10:26:42,358 INFO  [log] Fin du test -- Cas : 1.2
+2018-06-26 10:26:42,358 INFO  [log] Début du test -- Cas : 1.0 300
+2018-06-26 10:26:42,358 INFO  [SoapUIProTestCaseRunner] running step [generateOtpUnbanked]
+2018-06-26 10:26:42,955 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:26:42,955 INFO  [log] Début du test -- Cas : 1.4 384
+2018-06-26 10:26:42,955 INFO  [SoapUIProTestCaseRunner] running step [generateOtpUnbanked]
+2018-06-26 10:26:43,477 INFO  [log] Fin du test -- Cas : 1.4
+2018-06-26 10:26:43,477 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-GenerateOTPUnbanked], time taken: 3228ms, status: FINISHED
+2018-06-26 10:26:43,478 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-EnrollUnBankedCustomer]
+2018-06-26 10:26:43,478 INFO  [SoapUIProTestCaseRunner] running step [enrollUnBankedCustomer]
+2018-06-26 10:26:43,618 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:26:43,619 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:26:43,744 INFO  [log] Début du test -- Cas : 1.0 196
+2018-06-26 10:26:43,745 INFO  [SoapUIProTestCaseRunner] running step [enrollUnBankedCustomer]
+2018-06-26 10:26:44,347 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:26:44,347 INFO  [log] Début du test -- Cas : 1.2 307
+2018-06-26 10:26:44,348 INFO  [SoapUIProTestCaseRunner] running step [enrollUnBankedCustomer]
+2018-06-26 10:26:44,945 INFO  [log] Fin du test -- Cas : 1.2
+2018-06-26 10:26:44,946 INFO  [log] Début du test -- Cas : 1.0 384
+2018-06-26 10:26:44,946 INFO  [SoapUIProTestCaseRunner] running step [enrollUnBankedCustomer]
+2018-06-26 10:26:45,527 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:26:45,527 INFO  [log] Début du test -- Cas : 1.0 300
+2018-06-26 10:26:45,527 INFO  [SoapUIProTestCaseRunner] running step [enrollUnBankedCustomer]
+2018-06-26 10:26:46,168 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:26:46,169 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-EnrollUnBankedCustomer], time taken: 3021ms, status: FINISHED
+2018-06-26 10:26:46,170 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-EnrollBankedCustomer]
+2018-06-26 10:26:46,170 INFO  [SoapUIProTestCaseRunner] running step [enrollBankedCustomer]
+2018-06-26 10:26:46,183 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:26:46,183 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:26:46,302 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:26:46,302 INFO  [SoapUIProTestCaseRunner] running step [enrollBankedCustomer]
+2018-06-26 10:26:46,895 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:26:46,917 INFO  [log] Début du test -- Cas : 1.0 307
+2018-06-26 10:26:46,917 INFO  [SoapUIProTestCaseRunner] running step [enrollBankedCustomer]
+2018-06-26 10:26:47,519 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:26:47,519 INFO  [log] Début du test -- Cas : 1.0 300
+2018-06-26 10:26:47,519 INFO  [SoapUIProTestCaseRunner] running step [enrollBankedCustomer]
+2018-06-26 10:26:48,118 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:26:48,118 INFO  [log] Début du test -- Cas : 1.1 384
+2018-06-26 10:26:48,119 INFO  [SoapUIProTestCaseRunner] running step [enrollBankedCustomer]
+2018-06-26 10:26:48,637 INFO  [log] Fin du test -- Cas : 1.1
+2018-06-26 10:26:48,637 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-EnrollBankedCustomer], time taken: 2755ms, status: FINISHED
+2018-06-26 10:26:48,638 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-EnrollSubAgentOperator]
+2018-06-26 10:26:48,638 INFO  [SoapUIProTestCaseRunner] running step [enrollSubAgentOperator]
+2018-06-26 10:26:48,969 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:26:48,969 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:26:49,090 INFO  [log] Début du test -- Cas : 1.1 000
+2018-06-26 10:26:49,090 INFO  [SoapUIProTestCaseRunner] running step [enrollSubAgentOperator]
+2018-06-26 10:26:49,841 INFO  [log] Fin du test -- Cas : 1.1
+2018-06-26 10:26:49,841 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-EnrollSubAgentOperator], time taken: 1439ms, status: FINISHED
+2018-06-26 10:26:49,842 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-GetUnbankedFloorLimit]
+2018-06-26 10:26:49,842 INFO  [SoapUIProTestCaseRunner] running step [GetUnbankedFloorLimit]
+2018-06-26 10:26:49,914 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:26:50,035 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:26:50,036 INFO  [SoapUIProTestCaseRunner] running step [GetUnbankedFloorLimit]
+2018-06-26 10:26:50,632 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:26:50,632 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-GetUnbankedFloorLimit], time taken: 876ms, status: FINISHED
+2018-06-26 10:26:50,633 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-SubscribeSubAgentOperator]
+2018-06-26 10:26:50,633 INFO  [SoapUIProTestCaseRunner] running step [subscriptAgentOperator]
+2018-06-26 10:26:50,723 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:26:50,723 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:26:50,853 INFO  [log] Début du test -- Cas : 1.1 000
+2018-06-26 10:26:50,853 INFO  [SoapUIProTestCaseRunner] running step [subscriptAgentOperator]
+2018-06-26 10:26:51,443 INFO  [log] Fin du test -- Cas : 1.1
+2018-06-26 10:26:51,443 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-SubscribeSubAgentOperator], time taken: 889ms, status: FINISHED
+2018-06-26 10:26:51,443 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-TransferAgent]
+2018-06-26 10:26:51,465 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:26:51,586 INFO  [log] Début du test -- Cas : null 300
+2018-06-26 10:26:51,586 INFO  [SoapUIProTestCaseRunner] running step [transfer]
+2018-06-26 10:26:51,594 INFO  [log] Fin du test -- Cas : null
+2018-06-26 10:26:51,594 INFO  [SoapUIProTestCaseRunner] running step [transfer]
+2018-06-26 10:26:52,108 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:26:52,113 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-TransferAgent], time taken: 142ms, status: FINISHED
+2018-06-26 10:26:52,114 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-CheckCardlessRef]
+2018-06-26 10:26:52,114 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
+2018-06-26 10:26:52,260 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:26:52,288 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:26:53,171 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:26:53,171 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:26:54,553 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:26:54,553 INFO  [SoapUIProTestCaseRunner] running step [token]
+2018-06-26 10:26:54,553 INFO  [SoapUIProTestCaseRunner] running step [dataREader]
+2018-06-26 10:26:54,695 INFO  [log] Début du test -- Cas : C 000
+2018-06-26 10:26:54,695 INFO  [SoapUIProTestCaseRunner] running step [CheckCardlessRef]
+2018-06-26 10:26:54,725 INFO  [log] Fin du test -- Cas : C
+2018-06-26 10:26:54,725 INFO  [SoapUIProTestCaseRunner] running step [CheckCardlessRef]
+2018-06-26 10:26:55,347 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:26:55,347 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-CheckCardlessRef], time taken: 3125ms, status: FINISHED
+2018-06-26 10:26:55,347 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-CashWithdrawal]
+2018-06-26 10:26:55,348 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
+2018-06-26 10:26:55,475 INFO  [log] Début du test -- Cas : 1.1 000
+2018-06-26 10:26:55,475 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:26:56,291 INFO  [log] Fin du test -- Cas : 1.1
+2018-06-26 10:26:56,291 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:26:57,786 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:26:57,818 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
+2018-06-26 10:26:57,819 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:26:57,956 INFO  [log] Début du test -- Cas : A 000
+2018-06-26 10:26:57,956 INFO  [SoapUIProTestCaseRunner] running step [CashWithdrawal]
+2018-06-26 10:26:57,986 INFO  [log] Fin du test -- Cas : A
+2018-06-26 10:26:57,986 INFO  [SoapUIProTestCaseRunner] running step [CashWithdrawal]
+2018-06-26 10:26:58,511 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:26:58,512 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-CashWithdrawal], time taken: 2962ms, status: FINISHED
+2018-06-26 10:26:58,512 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-CashDeposit]
+2018-06-26 10:26:58,512 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
+2018-06-26 10:26:58,656 INFO  [log] Début du test -- Cas : 1.1 000
+2018-06-26 10:26:58,656 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:26:59,469 INFO  [log] Fin du test -- Cas : 1.1
+2018-06-26 10:26:59,469 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:27:00,897 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:27:00,897 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
+2018-06-26 10:27:00,897 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:27:01,026 INFO  [log] Début du test -- Cas : A 000
+2018-06-26 10:27:01,026 INFO  [SoapUIProTestCaseRunner] running step [CashDeposit]
+2018-06-26 10:27:01,055 INFO  [log] Fin du test -- Cas : A
+2018-06-26 10:27:01,056 INFO  [SoapUIProTestCaseRunner] running step [CashDeposit]
+2018-06-26 10:27:02,454 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:27:02,454 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-CashDeposit], time taken: 3763ms, status: FINISHED
+2018-06-26 10:27:02,455 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-TransferCustomer]
+2018-06-26 10:27:02,455 INFO  [SoapUIProTestCaseRunner] running step [transferA2OA]
+2018-06-26 10:27:02,489 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:27:02,489 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:27:02,622 INFO  [log] Début du test -- Cas :  
+2018-06-26 10:27:02,622 INFO  [SoapUIProTestCaseRunner] running step [transferA2OA]
+2018-06-26 10:27:03,134 INFO  [log] Fin du test -- Cas : 
+2018-06-26 10:27:03,134 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-TransferCustomer], time taken: 680ms, status: FINISHED
+2018-06-26 10:27:03,134 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-SendPayment]
+2018-06-26 10:27:03,134 INFO  [SoapUIProTestCaseRunner] running step [SendPayment]
+2018-06-26 10:27:03,153 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:27:03,153 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:27:03,275 INFO  [log] Début du test -- Cas : C 000
+2018-06-26 10:27:03,278 INFO  [SoapUIProTestCaseRunner] running step [SendPayment]
+2018-06-26 10:27:03,810 INFO  [log] Fin du test -- Cas : C
+2018-06-26 10:27:03,830 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-SendPayment], time taken: 718ms, status: FINISHED
+2018-06-26 10:27:03,831 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-GetAccTrans]
+2018-06-26 10:27:03,831 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
+2018-06-26 10:27:03,961 INFO  [log] Début du test -- Cas : 1.1 000
+2018-06-26 10:27:03,961 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:27:04,996 INFO  [log] Fin du test -- Cas : 1.1
+2018-06-26 10:27:04,996 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:27:06,545 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:27:06,546 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
+2018-06-26 10:27:06,546 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:27:06,669 INFO  [log] Début du test -- Cas : A 000
+2018-06-26 10:27:06,670 INFO  [SoapUIProTestCaseRunner] running step [shortStatement]
+2018-06-26 10:27:06,699 INFO  [log] Fin du test -- Cas : A
+2018-06-26 10:27:06,700 INFO  [SoapUIProTestCaseRunner] running step [shortStatement]
+2018-06-26 10:27:08,156 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:27:08,156 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-GetAccTrans], time taken: 4370ms, status: FINISHED
+2018-06-26 10:27:08,157 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-SendMoney]
+2018-06-26 10:27:08,157 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
+2018-06-26 10:27:08,311 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:27:08,311 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:27:09,057 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:27:09,057 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:27:10,393 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:27:10,394 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
+2018-06-26 10:27:10,394 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:27:10,567 INFO  [log] Début du test -- Cas : C 000
+2018-06-26 10:27:10,567 INFO  [SoapUIProTestCaseRunner] running step [SendMoney]
+2018-06-26 10:27:10,601 INFO  [log] Fin du test -- Cas : C
+2018-06-26 10:27:10,601 INFO  [SoapUIProTestCaseRunner] running step [SendMoney]
+2018-06-26 10:27:11,331 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:27:11,331 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-SendMoney], time taken: 2932ms, status: FINISHED
+2018-06-26 10:27:11,331 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-CashWithdrawalRequest]
+2018-06-26 10:27:11,331 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
+2018-06-26 10:27:11,465 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:27:11,465 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:27:12,191 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:27:12,191 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:27:13,441 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:27:13,441 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
+2018-06-26 10:27:13,441 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:27:13,568 INFO  [log] Début du test -- Cas : C 000
+2018-06-26 10:27:13,568 INFO  [SoapUIProTestCaseRunner] running step [cachWithDrawalRequest]
+2018-06-26 10:27:13,599 INFO  [log] Fin du test -- Cas : C
+2018-06-26 10:27:13,600 INFO  [SoapUIProTestCaseRunner] running step [cachWithDrawalRequest]
+2018-06-26 10:27:14,351 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:27:14,352 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-CashWithdrawalRequest], time taken: 2761ms, status: FINISHED
+2018-06-26 10:27:14,352 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-GetLocation]
+2018-06-26 10:27:14,353 INFO  [SoapUIProTestCaseRunner] running step [getLocation]
+2018-06-26 10:27:14,480 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:27:14,480 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:27:14,592 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:27:14,592 INFO  [SoapUIProTestCaseRunner] running step [getLocation]
+2018-06-26 10:27:15,225 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:27:15,225 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-GetLocation], time taken: 994ms, status: FINISHED
+2018-06-26 10:27:15,225 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-GetNews]
+2018-06-26 10:27:15,226 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
+2018-06-26 10:27:15,347 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:27:15,347 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:27:16,210 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:27:16,309 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:27:17,665 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:27:17,665 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
+2018-06-26 10:27:17,665 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:27:17,812 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:27:17,812 INFO  [SoapUIProTestCaseRunner] running step [getNews]
+2018-06-26 10:27:17,843 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:27:17,844 INFO  [SoapUIProTestCaseRunner] running step [getNews]
+2018-06-26 10:27:18,583 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:27:18,583 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-GetNews], time taken: 3231ms, status: FINISHED
+2018-06-26 10:27:18,584 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-GetSplash]
+2018-06-26 10:27:18,584 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
+2018-06-26 10:27:18,708 INFO  [log] Début du test -- Cas : 1.1 000
+2018-06-26 10:27:18,708 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:27:19,650 INFO  [log] Fin du test -- Cas : 1.1
+2018-06-26 10:27:19,650 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:27:20,986 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:27:21,000 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
+2018-06-26 10:27:21,000 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:27:21,133 INFO  [log] Début du test -- Cas : 1.1 000
+2018-06-26 10:27:21,133 INFO  [SoapUIProTestCaseRunner] running step [getSplash]
+2018-06-26 10:27:21,309 INFO  [log] Fin du test -- Cas : 1.1
+2018-06-26 10:27:21,310 INFO  [SoapUIProTestCaseRunner] running step [getSplash]
+2018-06-26 10:27:22,010 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:27:22,065 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-GetSplash], time taken: 3449ms, status: FINISHED
+2018-06-26 10:27:22,065 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-SendFeedback]
+2018-06-26 10:27:22,066 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
+2018-06-26 10:27:22,190 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:27:22,191 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:27:22,897 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:27:22,897 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:27:23,918 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:27:23,918 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
+2018-06-26 10:27:23,918 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:27:24,042 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:27:24,062 INFO  [SoapUIProTestCaseRunner] running step [sendFeedback]
+2018-06-26 10:27:24,200 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:27:24,200 INFO  [SoapUIProTestCaseRunner] running step [sendFeedback]
+2018-06-26 10:27:24,905 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:27:24,905 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-SendFeedback], time taken: 2663ms, status: FINISHED
+2018-06-26 10:27:24,906 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-SendContact]
+2018-06-26 10:27:24,906 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
+2018-06-26 10:27:25,037 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:27:25,037 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:27:25,582 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:27:25,582 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:27:26,683 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:27:26,683 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
+2018-06-26 10:27:26,684 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:27:26,812 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:27:26,812 INFO  [SoapUIProTestCaseRunner] running step [sendContact]
+2018-06-26 10:27:27,019 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:27:27,020 INFO  [SoapUIProTestCaseRunner] running step [sendContact]
+2018-06-26 10:27:27,715 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:27:27,776 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-SendContact], time taken: 2548ms, status: FINISHED
+2018-06-26 10:27:27,777 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-getCards]
+2018-06-26 10:27:27,777 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
+2018-06-26 10:27:27,905 INFO  [log] Début du test -- Cas : 1.1 000
+2018-06-26 10:27:27,979 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:27:28,927 INFO  [log] Fin du test -- Cas : 1.1
+2018-06-26 10:27:28,927 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:27:30,169 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:27:30,169 INFO  [SoapUIProTestCaseRunner] running step [tokentransfer]
+2018-06-26 10:27:30,169 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:27:30,334 INFO  [log] Début du test -- Cas : 1.1 000
+2018-06-26 10:27:30,405 INFO  [SoapUIProTestCaseRunner] running step [getCards]
+2018-06-26 10:27:30,442 INFO  [log] Fin du test -- Cas : 1.1
+2018-06-26 10:27:30,443 INFO  [SoapUIProTestCaseRunner] running step [getCards]
+2018-06-26 10:27:31,069 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:27:31,069 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-getCards], time taken: 3257ms, status: FINISHED
+2018-06-26 10:27:31,070 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-updateCard]
+2018-06-26 10:27:31,070 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
+2018-06-26 10:27:31,212 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:27:31,212 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:27:31,917 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:27:31,917 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:27:33,174 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:27:33,198 INFO  [SoapUIProTestCaseRunner] running step [token]
+2018-06-26 10:27:33,198 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:27:33,323 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:27:33,380 INFO  [SoapUIProTestCaseRunner] running step [updateCard]
+2018-06-26 10:27:33,414 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:27:33,415 INFO  [SoapUIProTestCaseRunner] running step [updateCard]
+2018-06-26 10:27:36,310 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:27:36,347 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-updateCard], time taken: 4939ms, status: FINISHED
+2018-06-26 10:27:36,348 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-GetContact]
+2018-06-26 10:27:36,348 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
+2018-06-26 10:27:36,483 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:27:36,483 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:27:37,271 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:27:37,272 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:27:38,778 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:27:38,778 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
+2018-06-26 10:27:38,778 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:27:38,907 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:27:38,908 INFO  [SoapUIProTestCaseRunner] running step [getContact]
+2018-06-26 10:27:39,123 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:27:39,124 INFO  [SoapUIProTestCaseRunner] running step [getContact]
+2018-06-26 10:27:39,816 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:27:39,816 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-GetContact], time taken: 3452ms, status: FINISHED
+2018-06-26 10:27:39,816 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-ConvertAmount]
+2018-06-26 10:27:39,816 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
+2018-06-26 10:27:39,949 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:27:39,949 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:27:40,795 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:27:40,795 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:27:42,166 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:27:42,166 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
+2018-06-26 10:27:42,166 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:27:42,397 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:27:42,397 INFO  [SoapUIProTestCaseRunner] running step [convertirMontant]
+2018-06-26 10:27:42,599 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:27:42,599 INFO  [SoapUIProTestCaseRunner] running step [convertirMontant]
+2018-06-26 10:27:43,240 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:27:43,241 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-ConvertAmount], time taken: 3454ms, status: FINISHED
+2018-06-26 10:27:43,241 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-InsertRate]
+2018-06-26 10:27:43,241 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
+2018-06-26 10:27:43,399 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:27:43,436 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:27:44,319 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:27:44,319 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:27:45,694 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:27:45,715 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
+2018-06-26 10:27:45,715 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:27:45,836 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:27:45,836 INFO  [SoapUIProTestCaseRunner] running step [insertRate]
+2018-06-26 10:27:45,866 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:27:45,866 INFO  [SoapUIProTestCaseRunner] running step [insertRate]
+2018-06-26 10:27:46,682 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:27:46,682 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-InsertRate], time taken: 3315ms, status: FINISHED
+2018-06-26 10:27:46,683 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-GetAlert]
+2018-06-26 10:27:46,683 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
+2018-06-26 10:27:46,811 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:27:46,811 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:27:47,325 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:27:47,325 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:27:48,638 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:27:48,639 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
+2018-06-26 10:27:48,639 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:27:48,761 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:27:48,761 INFO  [SoapUIProTestCaseRunner] running step [getAlerts]
+2018-06-26 10:27:48,794 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:27:48,795 INFO  [SoapUIProTestCaseRunner] running step [getAlerts]
+2018-06-26 10:27:49,498 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:27:49,498 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-GetAlert], time taken: 2340ms, status: FINISHED
+2018-06-26 10:27:49,499 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-checkBookRequest]
+2018-06-26 10:27:49,499 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
+2018-06-26 10:27:49,632 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:27:49,633 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:27:50,459 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:27:50,460 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:27:51,859 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:27:51,859 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
+2018-06-26 10:27:51,859 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:27:51,982 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:27:51,983 INFO  [SoapUIProTestCaseRunner] running step [checkBookApplication]
+2018-06-26 10:27:52,011 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:27:52,012 INFO  [SoapUIProTestCaseRunner] running step [checkBookApplication]
+2018-06-26 10:27:53,111 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:27:53,111 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-checkBookRequest], time taken: 3451ms, status: FINISHED
+2018-06-26 10:27:53,112 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-ChangeAgentAccount]
+2018-06-26 10:27:53,112 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
+2018-06-26 10:27:53,231 INFO  [log] Début du test -- Cas : 1.1 000
+2018-06-26 10:27:53,231 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:27:54,044 INFO  [log] Fin du test -- Cas : 1.1
+2018-06-26 10:27:54,044 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:27:55,270 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:27:55,270 INFO  [SoapUIProTestCaseRunner] running step [tokenReader]
+2018-06-26 10:27:55,270 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:27:55,391 INFO  [log] Début du test -- Cas : ANDROID 000
+2018-06-26 10:27:55,391 INFO  [SoapUIProTestCaseRunner] running step [changeAgentAccount]
+2018-06-26 10:27:55,415 INFO  [log] Fin du test -- Cas : ANDROID
+2018-06-26 10:27:55,415 INFO  [SoapUIProTestCaseRunner] running step [changeAgentAccount]
+2018-06-26 10:27:56,093 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:27:56,172 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-ChangeAgentAccount], time taken: 2798ms, status: FINISHED
+2018-06-26 10:27:56,173 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-UpdateCustomerAgent]
+2018-06-26 10:27:56,173 INFO  [SoapUIProTestCaseRunner] running step [loginREader]
+2018-06-26 10:27:56,294 INFO  [log] Début du test -- Cas : 1.1 000
+2018-06-26 10:27:56,294 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:27:57,053 INFO  [log] Fin du test -- Cas : 1.1
+2018-06-26 10:27:57,054 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:27:58,315 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:27:58,315 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
+2018-06-26 10:27:58,315 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:27:58,450 INFO  [log] Début du test -- Cas : A 000
+2018-06-26 10:27:58,450 INFO  [SoapUIProTestCaseRunner] running step [UpdateCustomerAgentInforamtions]
+2018-06-26 10:27:58,473 INFO  [log] Fin du test -- Cas : A
+2018-06-26 10:27:58,473 INFO  [SoapUIProTestCaseRunner] running step [UpdateCustomerAgentInforamtions]
+2018-06-26 10:27:59,005 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:27:59,005 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-UpdateCustomerAgent], time taken: 2595ms, status: FINISHED
+2018-06-26 10:27:59,006 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-GetAgentAllowedAccount]
+2018-06-26 10:27:59,006 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
+2018-06-26 10:27:59,153 INFO  [log] Début du test -- Cas : 1.1 000
+2018-06-26 10:27:59,153 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:27:59,914 INFO  [log] Fin du test -- Cas : 1.1
+2018-06-26 10:27:59,914 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:28:01,688 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:28:01,703 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
+2018-06-26 10:28:01,703 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:28:01,833 INFO  [log] Début du test -- Cas : 1.1 000
+2018-06-26 10:28:01,889 INFO  [SoapUIProTestCaseRunner] running step [getAgentAllowedAccount]
+2018-06-26 10:28:01,919 INFO  [log] Fin du test -- Cas : 1.1
+2018-06-26 10:28:01,919 INFO  [SoapUIProTestCaseRunner] running step [getAgentAllowedAccount]
+2018-06-26 10:28:04,186 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:28:04,186 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-GetAgentAllowedAccount], time taken: 4937ms, status: FINISHED
+2018-06-26 10:28:04,187 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-AddAccount]
+2018-06-26 10:28:04,187 INFO  [SoapUIProTestCaseRunner] running step [loginreader]
+2018-06-26 10:28:04,329 INFO  [log] Début du test -- Cas : 1.1 000
+2018-06-26 10:28:04,348 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:28:05,263 INFO  [log] Fin du test -- Cas : 1.1
+2018-06-26 10:28:05,263 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:28:06,957 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:28:06,957 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
+2018-06-26 10:28:06,957 INFO  [SoapUIProTestCaseRunner] running step [dataREader]
+2018-06-26 10:28:07,090 INFO  [log] Début du test -- Cas : 1.1 000
+2018-06-26 10:28:07,090 INFO  [SoapUIProTestCaseRunner] running step [addAccount]
+2018-06-26 10:28:07,120 INFO  [log] Fin du test -- Cas : 1.1
+2018-06-26 10:28:07,120 INFO  [SoapUIProTestCaseRunner] running step [addAccount]
+2018-06-26 10:28:08,320 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:28:08,340 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-AddAccount], time taken: 4061ms, status: FINISHED
+2018-06-26 10:28:08,341 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-GetCmsAccount]
+2018-06-26 10:28:08,341 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
+2018-06-26 10:28:08,466 INFO  [log] Début du test -- Cas : 1.1 000
+2018-06-26 10:28:08,466 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:28:09,217 INFO  [log] Fin du test -- Cas : 1.1
+2018-06-26 10:28:09,217 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:28:10,458 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:28:10,458 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
+2018-06-26 10:28:10,459 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:28:10,579 INFO  [log] Début du test -- Cas : 1.1 000
+2018-06-26 10:28:10,579 INFO  [SoapUIProTestCaseRunner] running step [getCmsAccount]
+2018-06-26 10:28:10,612 INFO  [log] Fin du test -- Cas : 1.1
+2018-06-26 10:28:10,612 INFO  [SoapUIProTestCaseRunner] running step [getCmsAccount]
+2018-06-26 10:28:13,676 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:28:13,676 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-GetCmsAccount], time taken: 5106ms, status: FINISHED
+2018-06-26 10:28:13,676 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-GetCustomerAgentInformations]
+2018-06-26 10:28:13,677 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
+2018-06-26 10:28:13,799 INFO  [log] Début du test -- Cas : 1.1 000
+2018-06-26 10:28:13,799 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:28:14,716 INFO  [log] Fin du test -- Cas : 1.1
+2018-06-26 10:28:14,716 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:28:16,150 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:28:16,184 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
+2018-06-26 10:28:16,185 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:28:16,331 INFO  [log] Début du test -- Cas : A 000
+2018-06-26 10:28:16,371 INFO  [SoapUIProTestCaseRunner] running step [GetCustomerAgentInformations]
+2018-06-26 10:28:16,405 INFO  [log] Fin du test -- Cas : A
+2018-06-26 10:28:16,406 INFO  [SoapUIProTestCaseRunner] running step [GetCustomerAgentInformations]
+2018-06-26 10:28:18,327 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:28:18,327 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-GetCustomerAgentInformations], time taken: 4551ms, status: FINISHED
+2018-06-26 10:28:18,327 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-updateStatus]
+2018-06-26 10:28:18,328 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
+2018-06-26 10:28:18,463 INFO  [log] Début du test -- Cas : 1.1 000
+2018-06-26 10:28:18,463 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:28:19,236 INFO  [log] Fin du test -- Cas : 1.1
+2018-06-26 10:28:19,237 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:28:20,513 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:28:20,513 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
+2018-06-26 10:28:20,513 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:28:20,634 INFO  [log] Début du test -- Cas : 1.1 000
+2018-06-26 10:28:20,635 INFO  [SoapUIProTestCaseRunner] running step [updateAgCusStatus]
+2018-06-26 10:28:20,669 INFO  [log] Fin du test -- Cas : 1.1
+2018-06-26 10:28:20,670 INFO  [SoapUIProTestCaseRunner] running step [updateAgCusStatus]
+2018-06-26 10:28:21,282 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:28:21,283 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-updateStatus], time taken: 2746ms, status: FINISHED
+2018-06-26 10:28:21,283 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-UpdateAccountStatus]
+2018-06-26 10:28:21,284 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
+2018-06-26 10:28:21,403 INFO  [log] Début du test -- Cas : 1.1 000
+2018-06-26 10:28:21,403 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:28:22,109 INFO  [log] Fin du test -- Cas : 1.1
+2018-06-26 10:28:22,110 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:28:23,349 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:28:23,349 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
+2018-06-26 10:28:23,350 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:28:23,464 INFO  [log] Début du test -- Cas : ANDROID 000
+2018-06-26 10:28:23,464 INFO  [SoapUIProTestCaseRunner] running step [updateMobileAccount]
+2018-06-26 10:28:23,483 INFO  [log] Fin du test -- Cas : ANDROID
+2018-06-26 10:28:23,484 INFO  [SoapUIProTestCaseRunner] running step [updateMobileAccount]
+2018-06-26 10:28:24,165 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:28:24,165 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-UpdateAccountStatus], time taken: 2591ms, status: FINISHED
+2018-06-26 10:28:24,165 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-GetSubAgentOperator]
+2018-06-26 10:28:24,165 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
+2018-06-26 10:28:24,325 INFO  [log] Début du test -- Cas : 1.1 000
+2018-06-26 10:28:24,325 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:28:24,963 INFO  [log] Fin du test -- Cas : 1.1
+2018-06-26 10:28:24,963 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:28:26,310 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:28:26,310 INFO  [SoapUIProTestCaseRunner] running step [tokenTransfer]
+2018-06-26 10:28:26,310 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:28:26,427 INFO  [log] Début du test -- Cas : 1.1 000
+2018-06-26 10:28:26,427 INFO  [SoapUIProTestCaseRunner] running step [getSubAgentOperator]
+2018-06-26 10:28:26,455 INFO  [log] Fin du test -- Cas : 1.1
+2018-06-26 10:28:26,456 INFO  [SoapUIProTestCaseRunner] running step [getSubAgentOperator]
+2018-06-26 10:28:28,136 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:28:28,136 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-GetSubAgentOperator], time taken: 3616ms, status: FINISHED
+2018-06-26 10:28:28,137 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-GetCurrency]
+2018-06-26 10:28:28,137 INFO  [SoapUIProTestCaseRunner] running step [getCurrency]
+2018-06-26 10:28:28,245 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:28:28,346 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:28:28,458 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:28:28,619 INFO  [SoapUIProTestCaseRunner] running step [getCurrency]
+2018-06-26 10:28:29,249 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:28:29,249 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-GetCurrency], time taken: 1131ms, status: FINISHED
+2018-06-26 10:28:29,251 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-GetCity]
+2018-06-26 10:28:29,252 INFO  [SoapUIProTestCaseRunner] running step [getCity]
+2018-06-26 10:28:29,380 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:28:29,380 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:28:29,490 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:28:29,490 INFO  [SoapUIProTestCaseRunner] running step [getCity]
+2018-06-26 10:28:30,135 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:28:30,135 INFO  [log] Début du test -- Cas : 1.0 307
+2018-06-26 10:28:30,135 INFO  [SoapUIProTestCaseRunner] running step [getCity]
+2018-06-26 10:28:30,644 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:28:30,644 INFO  [log] Début du test -- Cas : 1.5 384
+2018-06-26 10:28:30,644 INFO  [SoapUIProTestCaseRunner] running step [getCity]
+2018-06-26 10:28:31,159 INFO  [log] Fin du test -- Cas : 1.5
+2018-06-26 10:28:31,159 INFO  [log] Début du test -- Cas : 1.0 300
+2018-06-26 10:28:31,159 INFO  [SoapUIProTestCaseRunner] running step [getCity]
+2018-06-26 10:28:31,825 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:28:31,825 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-GetCity], time taken: 2888ms, status: FINISHED
+2018-06-26 10:28:31,826 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-GetNationality]
+2018-06-26 10:28:31,826 INFO  [SoapUIProTestCaseRunner] running step [getNarionality]
+2018-06-26 10:28:32,218 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:28:32,218 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:28:32,335 INFO  [log] Début du test -- Cas : 1.1 384
+2018-06-26 10:28:32,335 INFO  [SoapUIProTestCaseRunner] running step [getNarionality]
+2018-06-26 10:28:32,348 INFO  [log] Fin du test -- Cas : 1.1
+2018-06-26 10:28:32,348 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:28:32,348 INFO  [SoapUIProTestCaseRunner] running step [getNarionality]
+2018-06-26 10:28:33,318 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:28:33,318 INFO  [log] Début du test -- Cas : 1.0 307
+2018-06-26 10:28:33,318 INFO  [SoapUIProTestCaseRunner] running step [getNarionality]
+2018-06-26 10:28:33,831 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:28:33,832 INFO  [log] Début du test -- Cas : 1.0 300
+2018-06-26 10:28:33,832 INFO  [SoapUIProTestCaseRunner] running step [getNarionality]
+2018-06-26 10:28:34,678 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:28:34,679 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-GetNationality], time taken: 3636ms, status: FINISHED
+2018-06-26 10:28:34,679 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-LoginCustomer]
+2018-06-26 10:28:34,679 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:28:35,551 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:28:35,551 INFO  [SoapUIProTestCaseRunner] running step [loginReader]
+2018-06-26 10:28:35,669 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:28:35,669 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:28:37,061 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:28:37,062 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-LoginCustomer], time taken: 3263ms, status: FINISHED
+2018-06-26 10:28:37,062 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-loginAgent]
+2018-06-26 10:28:37,062 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:28:38,016 INFO  [SoapUIProTestCaseRunner] Assertion [JsonPath Match] has status UNKNOWN
+2018-06-26 10:28:38,053 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-06-26 10:28:38,172 INFO  [log] Début du test -- Cas : 1.0 000
+2018-06-26 10:28:38,186 INFO  [SoapUIProTestCaseRunner] running step [login]
+2018-06-26 10:28:39,020 INFO  [log] Fin du test -- Cas : 1.0
+2018-06-26 10:28:39,020 INFO  [log] [WYSLCoA4Q4]
+2018-06-26 10:28:39,026 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-loginAgent], time taken: 2753ms, status: FINISHED
+2018-06-26 10:28:39,027 INFO  [SoapUIProTestCaseRunner] Project [souscription] finished with status [FINISHED] in 245928ms
+2018-06-26 10:28:45,613 INFO  [SoapUIProTestCaseRunner] Created report at file:/Users/mac/git/testAutomation/soapUIJenkinsProject/output/index.html

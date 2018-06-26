@@ -55,6 +55,8 @@
 							<outputFolder>${project.basedir}/output/</outputFolder>
 							<!--junit results file-->
 							<junitReport>true</junitReport>
+							<exportwAll>true</exportwAll>
+							<printReport>true</printReport>
                             <projectProperties>
                                 <value>message=Hello World!</value>
                             </projectProperties>
